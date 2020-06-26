@@ -9,15 +9,21 @@
     ],
     "008": [
         {
-            "target": "instanceTypeId",
-            "description": "Default Unspecified Instance type in case when no 336 field present",
-            "subfield": [],
             "rules": [
                 {
-                    "conditions": [],
-                    "value": "30fffe0e-e985-4144-b2e2-1e8179bdb41f"
+                    "conditions": [
+                        {
+                            "type": "set_instance_type_id",
+                            "parameter": {
+                                "unspecifiedInstanceTypeCode": "zzz"
+                            }
+                        }
+                    ]
                 }
-            ]
+            ],
+            "target": "instanceTypeId",
+            "subfield": [],
+            "description": "Default Unspecified Instance type in case when no 336 field present"
         },
         {
             "rules": [
@@ -2058,7 +2064,10 @@
                 {
                     "conditions": [
                         {
-                            "type": "set_instance_type_id"
+                            "type": "set_instance_type_id",
+                            "parameter": {
+                                "unspecifiedInstanceTypeCode": "zzz"
+                            }
                         }
                     ]
                 }
