@@ -261,9 +261,10 @@
             "description": ""
         }
     },
+    "legacyIdField": "Z30_BARCODE",
     "materialTypeMap": "/md/five_colleges/maps/item_material_type_map.tsv",
     "loanTypeMap": "/md/five_colleges/maps/loan_type_map.tsv",
-    "itemsFileType": "PIPE",
-    "itemsFileDelimiter": "|",
+    "itemsFileType": "TSV",
+    "itemsFileDelimiter": "",
     "mapOnLocationField": "code"
 }
