@@ -7229,5 +7229,47 @@
                 }
             ]
         }
+    ],
+    "998": [
+        {
+            "entity": [
+                {
+                    "rules": [
+                        {
+                            "conditions": [
+                                {
+                                    "type": "set_identifier_type_id_by_name",
+                                    "parameter": {
+                                        "name": "Previous Aleph Identifier"
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "target": "identifiers.identifierTypeId",
+                    "subfield": [
+                        "b"
+                    ],
+                    "description": "Type for Previous Aleph Identifier"
+                },
+                {
+                    "rules": [
+                        {
+                            "conditions": [
+                                {
+                                    "type": "trim"
+                                }
+                            ]
+                        }
+                    ],
+                    "target": "identifiers.value",
+                    "subfield": [
+                        "b"
+                    ],
+                    "description": "Previous Aleph Identifier"
+                }
+            ],
+            "entityPerRepeatedSubfield": true
+        }
     ]
 }
