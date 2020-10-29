@@ -4,3 +4,6 @@
 The Z30 exports should have the code
 * Implement Loan type mapping. Example: The Z30 item status for circulation is only unique when accounting for the sublibrary+ the item status ID.  for example.
 SubLibrary SCNLS and Item status 01 map to "Standard Loan"
+# Issues remaining or surfaced 
+* Records with 583 http://eastlibraries.org/retained-materials url are being duplicated. Discuss, dedupe or move to another level (Holdings, Item)
+* 
