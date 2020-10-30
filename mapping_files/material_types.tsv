@@ -1,55 +1,47 @@
-legacy_code	Aleph Name	folio_name	folio_id
-ACASS	Audiocassette	Audio	28bf8c0e-99d8-48cc-bb4f-058fb32c8434
-ADMIN	Admin Record	ADMIN	49c81640-cedd-446b-a27b-2671d588d27c
-ARCH	Archival Material	Archival Material	9beb1480-bfaf-42b2-b538-50e1876244de
-ART	Art Object	Art Object	2b3d4404-cb7c-474b-b0b9-d2fbd3c69409
-ARTI	Artifact/Object	Artifact/Object	39e7e063-9963-4419-bf43-791f331c4076
-AUDCD	Audio CD	Audio CD	79a28446-25ed-4be6-8821-20b57cae0677
-AUDIO	Audio	Audio	28bf8c0e-99d8-48cc-bb4f-058fb32c8434
-BOOK	Book	Book	2d72aa13-2451-41fe-afc7-b3dc7c131389
-CAMRA	Digital Camera	Digital Camera	9cf55193-1b47-4c40-9482-91b20a2684fd
-Carel	Carrel	Carrel	1f4b10b8-25ea-4717-9f4f-d5a635d6601d
-CARD	Card	Card	51b0138a-e3d7-421b-9c31-1427c8c39a00
-CDROM	CD-ROM/DVD-ROM	CD-ROM	752db3b1-dc2c-481d-90d0-6534f8587e7b
-DATA	Data File	Data File	564f0c2b-f0f5-4c92-9eae-72f803145ed4
-DATAB	Database (online)	Database (online)	55eb8fc3-52ed-4481-8ea1-45459fbbb716
-EBOOK	E-Book	E-Book	d3f612dc-0632-4fe3-b624-9d4bb6488e8a
-EJOUR	E-Journal	E-Journal	72b3ed61-c0ed-4f6e-be3f-646612e53ec1
-EMUS	Electronic Score	Electronic Score	0dd77b54-e139-4be5-8de8-29f185ffdc22
-EQUIP	Equipment	Equipment	1ee77c26-2173-4add-8494-d0a1a0416a69
-ERES	E-Resource	E-Resource	f506cf56-cab1-45bf-b9f7-581cbff5a67d
-ETHES	E-Thesis	E-Thesis	a7752a75-69ed-46d0-8ab3-e31c41e2119f
-EVIDE	E-Video	Streaming Video	2e8d32d0-fef0-43f0-9cc8-276aa055d367
-FILM	Film	Film	78a14a12-6fa2-47ed-b0cf-8660ba9c4078
-GAME	Game	Game	416f1b5f-d1b2-4cba-a346-efc1a5e6b20b
-GPUB	Gov Publication	Gov Publication	aaac2bef-8bc1-4f60-8a39-c354eb5032d9
-HDPHN	Head Phone	Head Phone	1e145a0f-930e-4427-889b-0e3aad674f7d
-ISSBD	Journal Bound	Journal Bound	eb7ebd68-6bb5-4506-a21b-a59e02634cfb
-ISSUE	Journal Issue	Journal Issue	9ba64788-e99e-4dd2-ac00-57195925c6df
-KEY	Keys- Library Issued	Keys	cacf9a09-844f-478e-a033-932b88ee5d45
-KIT	Kit	Kit	e08f4706-2df3-4cab-8271-425526c99d63
-LAPTP	LapTop Computer	LapTop Computer	1aea9be7-7948-48ac-86ed-42f3ae45dac2
-LASER	Laserdisc	Laserdisc	4040c61b-0375-4780-a14d-79720cd05d6b
-LP	LP Phonorecord	LP Phonorecord	86289cff-57aa-41b0-9969-dc4bc5513942
-LSRDC	Laserdisc	Laserdisc	4040c61b-0375-4780-a14d-79720cd05d6b
-MAP	Map	Map	0a12a7b4-edac-4129-9963-45f693a6a240
-MFILM	Microfilm	Microfilm	24161a98-dd84-4aff-b5ab-c6166ee233b0
-MICR	Microform	Microform	a68395e8-7d4c-4c92-86b5-13a7c55a0033
-MUNC	MUNC	MUNC	bd43f716-5467-4e2e-a9a3-ecba8e39de04
-MUSCD	Music CD	Music CD	f188e723-61a1-4591-87ae-98d0277dd1ad
-MUSIC	Music Score	Music Score	d614ef22-15fd-4151-acdb-62af66e147de
-NEWS	Newspapers	Newspaper	7c852437-39c5-4c3b-82d0-027256b10b8e
-ONRES	Online Resource	E-Resource	f506cf56-cab1-45bf-b9f7-581cbff5a67d
-PERBD	Periodical Bound	Journal Bound	eb7ebd68-6bb5-4506-a21b-a59e02634cfb
-PRINT	Print	Print	e5fbd1dd-bf6e-4e59-bc21-f9f1e8b78c59
-SEED	Seed	Seed	3db98c9f-8567-4d77-a9b0-34bd1aee6f8e
-SPOK	Spoken Word CD	Spoken Word CD	948258bc-1f20-49a1-a446-bf8e1d8f6293
-STAT	Statistics Only	Statistics only	adc76571-7f91-4e95-b8c4-445cba1a0ab9
-STRA	Streaming Audio	Streaming Audio	fc563ffe-1b6a-4dc5-9e33-b22547055ee1
-STRV	Streaming Video	Streaming Video	2e8d32d0-fef0-43f0-9cc8-276aa055d367
-SUPP	Suppl to Primary Item	Suppl for Primary Item	5feb2675-93cf-4cfc-859e-8299c9bc3cd4
-THES	Thesis	Thesis	f16463b6-efec-4375-994f-92180e755ab4
-VCASS	Videocassette	Videocassette	ee4dbbb9-3c74-42fc-903f-59c2a1e1e733
-VDVD	DVD	DVD	faa0cd0a-e408-4b57-acff-1c3f9171723d
-WSITE	Website	Website	0d92e411-3ee0-4b0b-aa5d-368390680f5c
-VDROM	DVD-ROM	CD-ROM	752db3b1-dc2c-481d-90d0-6534f8587e7b
+folio_name	legacy_code
+Audiocassette	ACASS
+Admin	ADMIN
+Archival material	ARCH
+Artifact/Object	ART
+Artifact/Object	ARTI
+Audio CD	AUDCD
+Book	BOOK
+Equipment	CAMRA
+CD-ROM	CDROM
+Data File	DATA
+Database	DATAB
+Streaming Audio	EAUDI
+E-Book Package	EBKPK
+E-Book	EBOOK
+E-Journal Package	EJOUP
+E-Journal	EJOUR
+E-Score	EMUS
+E-Newspaper	ENEWS
+Equipment	EQUIP
+E-Thesis/Dissertation	ETHES
+Film	FILM
+Analog Game	GAME
+Government Publication	GPUB
+Equipment	HDPHN
+Journal	ISSBD
+Journal	ISSUE
+Equipment	KEY
+Equipment	LAPTP
+LP Phonorecord	LP
+Map	MAP
+Microform	MFILM
+Microform	MICR
+Microform	MICRO
+Audio CD	MUSCD
+Score	MUSIC
+Musical Instrument	MUSIN
+Newspaper	NEWS
+Database	ONRES
+Audio CD	SPOK
+Streaming Audio	STRA
+Streaming Video	STRV
+Supplement	SUPP
+Thesis/Dissertation	THES
+Videocassette	VCASS
+DVD/Blu-ray	VDVD
+Video Game	VGAME
