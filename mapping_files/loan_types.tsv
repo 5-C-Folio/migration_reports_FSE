@@ -1,8 +1,7 @@
 folio_name	item_status	sublibrary_code
 Non-circulating	HCASC, HCMED, HCLIB	02
 Standard Loan	HCMED, HCLIB, HCASC, HCPF	01
-Reserve 4 Hour	HCLIB	09
-Reserve 4 Hour, due at closing		
+Reserve 4 Hour	HCLIB	09	
 Reserve 1 Day 	HCLIB	13
 Reserve 3 Day	HCLIB	14
 4 Week	HCLIB,  HCFP, HCMED, 	10
@@ -42,7 +41,7 @@ Reserve 4 Hour	UMDUB, UMSCI, UMMDA, UMFAC,   UMIDA	31
 Limited	UMDUB, 	07
 Comm Catalog	UMDUB, 	28
 Internet	UMDUB, UMSCI	04
-Equipment 4 Hour	UMMDA, UMDML	58, 52*
+Equipment 4 Hour	UMMDA, UMDML	58, 52
 Equipment 1 Day	UMMDA	56
 Equipment 3 Day	UMMDA, UMDML, UMIDA	53, 54, 55, 57
 Non-circulating	MHKSM, MHASC, MHLIB, MHPSL	02
