@@ -1,10 +1,10 @@
 {
     "001": [
         {
+            "rules": [],
             "target": "hrid",
-            "description": "The human readable ID",
             "subfield": [],
-            "rules": []
+            "description": "The human readable ID"
         }
     ],
     "008": [
@@ -431,19 +431,8 @@
     ],
     "024": [
         {
-            "entityPerRepeatedSubfield": true,
             "entity": [
                 {
-                    "target": "identifiers.identifierTypeId",
-                    "description": "Type for Other Standard Identifier",
-                    "subfield": [
-                        "a",
-                        "c",
-                        "d",
-                        "q",
-                        "z",
-                        "2"
-                    ],
                     "rules": [
                         {
                             "conditions": [
@@ -455,11 +444,8 @@
                                 }
                             ]
                         }
-                    ]
-                },
-                {
-                    "target": "identifiers.value",
-                    "description": "Other Standard Identifier",
+                    ],
+                    "target": "identifiers.identifierTypeId",
                     "subfield": [
                         "a",
                         "c",
@@ -468,6 +454,10 @@
                         "z",
                         "2"
                     ],
+                    "description": "Type for Other Standard Identifier",
+                    "applyRulesOnConcatenatedData": true
+                },
+                {
                     "rules": [
                         {
                             "conditions": [
@@ -476,7 +466,18 @@
                                 }
                             ]
                         }
-                    ]
+                    ],
+                    "target": "identifiers.value",
+                    "subfield": [
+                        "a",
+                        "c",
+                        "d",
+                        "q",
+                        "z",
+                        "2"
+                    ],
+                    "description": "Other Standard Identifier",
+                    "applyRulesOnConcatenatedData": true
                 }
             ]
         }
@@ -569,7 +570,8 @@
                         "b",
                         "q"
                     ],
-                    "description": "Type for Publisher Number"
+                    "description": "Type for Publisher Number",
+                    "applyRulesOnConcatenatedData": true
                 },
                 {
                     "rules": [
@@ -587,10 +589,10 @@
                         "b",
                         "q"
                     ],
-                    "description": "Publisher Number"
+                    "description": "Publisher Number",
+                    "applyRulesOnConcatenatedData": true
                 }
-            ],
-            "entityPerRepeatedSubfield": true
+            ]
         }
     ],
     "030": [
@@ -1577,7 +1579,6 @@
     ],
     "245": [
         {
-            "target": "title",
             "rules": [
                 {
                     "conditions": [
@@ -1587,6 +1588,7 @@
                     ]
                 }
             ],
+            "target": "title",
             "subfield": [
                 "a",
                 "n",
@@ -7032,6 +7034,48 @@
                     "description": "URL public note"
                 }
             ]
+        }
+    ],
+    "998": [
+        {
+            "entity": [
+                {
+                    "rules": [
+                        {
+                            "conditions": [
+                                {
+                                    "type": "set_identifier_type_id_by_name",
+                                    "parameter": {
+                                        "name": "Previous Aleph Identifier"
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "target": "identifiers.identifierTypeId",
+                    "subfield": [
+                        "b"
+                    ],
+                    "description": "Type for Previous Aleph Identifier"
+                },
+                {
+                    "rules": [
+                        {
+                            "conditions": [
+                                {
+                                    "type": "trim"
+                                }
+                            ]
+                        }
+                    ],
+                    "target": "identifiers.value",
+                    "subfield": [
+                        "b"
+                    ],
+                    "description": "Previous Aleph Identifier"
+                }
+            ],
+            "entityPerRepeatedSubfield": true
         }
     ]
 }
