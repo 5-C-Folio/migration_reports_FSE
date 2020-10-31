@@ -9,7 +9,7 @@
             "description": ""
         },
         "Z30_SUB_LIBRARY": {
-            "target": "loanTypeId",
+            "target": "permanentLoanTypeId",
             "description": ""
         },
         "Z30_MATERIAL": {
@@ -262,8 +262,6 @@
         }
     },
     "legacyIdField": "Z30_BARCODE",
-    "materialTypeMap": "/md/five_colleges/maps/item_material_type_map.tsv",
-    "loanTypeMap": "/md/five_colleges/maps/loan_type_map.tsv",
     "itemsFileType": "TSV",
     "itemsFileDelimiter": "",
     "mapOnLocationField": "code"
