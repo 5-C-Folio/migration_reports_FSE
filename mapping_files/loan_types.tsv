@@ -1,4 +1,4 @@
-folio_name	item_status	sublibrary_code
+folio_name	Z30_SUB_LIBRARY	Z30_ITEM_STATUS
 Non-circulating	HCASC, HCMED, HCLIB	02
 Standard Loan	HCMED, HCLIB, HCASC, HCPF	01
 Reserve 4 Hour	HCLIB	09
