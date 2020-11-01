@@ -262,7 +262,7 @@
         }
     },
     "legacyIdField": "Z30_BARCODE",
-    "legacyFieldsToCountValuesFor":["Z30_ITEM_STATUS","Z30_MAINTENANCE_COUNT"],
+    "legacyFieldsToCountValuesFor":["Z30_ITEM_STATUS"],
     "itemsFileType": "TSV",
     "itemsFileDelimiter": "",
     "mapOnLocationField": "code"
