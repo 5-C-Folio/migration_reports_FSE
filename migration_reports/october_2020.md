@@ -52,8 +52,15 @@ The Z30 exports should have the code
 SubLibrary SCNLS and Item status 01 map to "Standard Loan" https://docs.google.com/spreadsheets/d/118rzzMuOQunI4mhUOnYu8bgedmDjM75n2nNZ-EcAErc/edit#gid=489348141
 # Issues remaining or surfaced 
 * Records with 583 http://eastlibraries.org/retained-materials url are being duplicated. Discuss, dedupe or move to another level (Holdings, Item)
-* 
-
+* 337 not mapped
+* Item map not updated with latest work on Item mapping
+* 657 Local classification? 
+* 019, 730 not mapped, 
+* 77X etc, check the community (leace 776 be) 
+* Count number of actual identifiers
+* Count unspecifide Material Types
+* Discuss item status at separate meeting ...process_stataus (count and discuss)
+* Give Aron breakdown of the unmapped loan types
 # Not Deduped Bibliographic records transformation results
 Time Run: 2020-10-30T18:46:34.170350
 ## Bibliographic records transformation counters
