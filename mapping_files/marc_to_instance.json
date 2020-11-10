@@ -2083,6 +2083,25 @@
             "ignoreSubsequentSubfields": true
         }
     ],
+    "337": [
+        {
+            "rules": [
+                {
+                    "conditions": [
+                        {
+                            "type": "set_instance_format_id"
+                        }
+                    ]
+                }
+            ],
+            "target": "instanceFormatIds",
+            "subfield": [
+                "b"
+            ],
+            "description": "Instance Format ID",
+            "ignoreSubsequentSubfields": true
+        }
+    ],
     "338": [
         {
             "rules": [
