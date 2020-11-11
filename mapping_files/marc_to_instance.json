@@ -1,12 +1,4 @@
 {
-    "001": [
-        {
-            "rules": [],
-            "target": "hrid",
-            "subfield": [],
-            "description": "The human readable ID"
-        }
-    ],
     "008": [
         {
             "rules": [
@@ -7055,7 +7047,14 @@
             ]
         }
     ],
-    "998": [
+    "998": [        
+        {
+            "rules": [],
+            "target": "hrid",
+            "subfield": "b",
+            "description": "The human readable ID",
+            "ignoreSubsequentFields": true,
+        },
         {
             "entity": [
                 {
