@@ -63,6 +63,7 @@ SubLibrary SCNLS and Item status 01 map to "Standard Loan" https://docs.google.c
 * Count unspecifide Material Types
 * Discuss item status at separate meeting ...process_stataus (count and discuss)
 * Give Aron breakdown of the unmapped loan types
+* Can we use HRID with the 998$b.   For those that have mutilple 998  the first (or last) 998 would be fine.
 # Not Deduped Bibliographic records transformation results
 Time Run: 2020-10-30T18:46:34.170350
 ## Bibliographic records transformation counters
