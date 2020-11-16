@@ -1,269 +1,271 @@
 {
     "fields": {
-        "Z30_REC_KEY": {
-            "target": "formerIds",
-            "description": ""
-        },
-        "Z30_BARCODE": {
-            "target": "barcode",
-            "description": ""
-        },
-        "Z30_SUB_LIBRARY": {
-            "target": "permanentLoanTypeId",
-            "description": ""
-        },
-        "Z30_MATERIAL": {
-            "target": "materialTypeId",
-            "description": ""
-        },
-        "Z30_ITEM_STATUS": {
-            "target": "",
-            "description": ""
-        },
-        "Z30_OPEN_DATE": {
-            "target": "",
-            "description": ""
-        },
-        "Z30_UPDATE_DATE": {
-            "target": "",
-            "description": ""
-        },
-        "Z30_CATALOGER": {
-            "target": "",
-            "description": ""
-        },
-        "Z30_DATE_LAST_RETURN": {
-            "target": "",
-            "description": ""
-        },
-        "Z30_HOUR_LAST_RETURN": {
-            "target": "",
-            "description": ""
-        },
-        "Z30_IP_LAST_RETURN": {
-            "target": "",
-            "description": ""
-        },
-        "Z30_NO_LOANS": {
-            "target": "",
-            "description": ""
+        "Z30_85X_TYPE": {
+            "description": "",
+            "target": ""
         },
         "Z30_ALPHA": {
-            "target": "",
-            "description": ""
-        },
-        "Z30_COLLECTION": {
-            "target": "permanentLocationId",
-            "description": ""
-        },
-        "Z30_CALL_NO_TYPE": {
-            "target": "",
-            "description": ""
-        },
-        "Z30_CALL_NO": {
-            "target": "itemLevelCallNumber",
-            "description": ""
-        },
-        "Z30_CALL_NO_KEY": {
-            "target": "",
-            "description": ""
-        },
-        "Z30_CALL_NO_2_TYPE": {
-            "target": "",
-            "description": ""
-        },
-        "Z30_CALL_NO_2": {
-            "target": "",
-            "description": ""
-        },
-        "Z30_CALL_NO_2_KEY": {
-            "target": "",
-            "description": ""
-        },
-        "Z30_DESCRIPTION": {
-            "target": "notes",
-            "description": ""
-        },
-        "Z30_NOTE_OPAC": {
-            "target": "notes",
-            "description": ""
-        },
-        "Z30_NOTE_CIRCULATION": {
-            "target": "circulationNotes",
-            "description": ""
-        },
-        "Z30_NOTE_INTERNAL": {
-            "target": "notes",
-            "description": ""
-        },
-        "Z30_ORDER_NUMBER": {
-            "target": "notes",
-            "description": "Order number"
-        },
-        "Z30_INVENTORY_NUMBER": {
-            "target": "accessionNumber",
-            "description": ""
-        },
-        "Z30_INVENTORY_NUMBER_DATE": {
-            "target": "",
-            "description": ""
-        },
-        "Z30_LAST_SHELF_REPORT_DATE": {
-            "target": "",
-            "description": ""
-        },
-        "Z30_PRICE": {
-            "target": "",
-            "description": ""
-        },
-        "Z30_SHELF_REPORT_NUMBER": {
-            "target": "",
-            "description": ""
-        },
-        "Z30_ON_SHELF_DATE": {
-            "target": "",
-            "description": ""
-        },
-        "Z30_ON_SHELF_SEQ": {
-            "target": "",
-            "description": ""
-        },
-        "Z30_REC_KEY_2": {
-            "target": "",
-            "description": ""
-        },
-        "Z30_REC_KEY_3": {
-            "target": "",
-            "description": ""
-        },
-        "Z30_PAGES": {
-            "target": "",
-            "description": ""
-        },
-        "Z30_ISSUE_DATE": {
-            "target": "",
-            "description": ""
-        },
-        "Z30_EXPECTED_ARRIVAL_DATE": {
-            "target": "",
-            "description": ""
+            "description": "",
+            "target": ""
         },
         "Z30_ARRIVAL_DATE": {
-            "target": "",
-            "description": ""
+            "description": "",
+            "target": ""
         },
-        "Z30_ITEM_STATISTIC": {
-            "target": "",
-            "description": ""
+        "Z30_BARCODE": {
+            "description": "",
+            "target": "barcode"
         },
-        "Z30_ITEM_PROCESS_STATUS": {
-            "target": "",
-            "description": ""
+        "Z30_CALL_NO": {
+            "description": "",
+            "target": "itemLevelCallNumber"
         },
-        "Z30_COPY_ID": {
-            "target": "copyNumber",
-            "description": ""
+        "Z30_CALL_NO_2": {
+            "description": "",
+            "target": ""
         },
-        "Z30_HOL_DOC_NUMBER_X": {
-            "target": "holdingsRecordId",
-            "description": ""
+        "Z30_CALL_NO_2_KEY": {
+            "description": "",
+            "target": ""
         },
-        "Z30_TEMP_LOCATION": {
-            "target": "temporaryLocationId",
-            "description": ""
+        "Z30_CALL_NO_2_TYPE": {
+            "description": "",
+            "target": ""
         },
-        "Z30_ENUMERATION_A": {
-            "target": "enumeration",
-            "description": ""
+        "Z30_CALL_NO_KEY": {
+            "description": "",
+            "target": ""
         },
-        "Z30_ENUMERATION_B": {
-            "target": "",
-            "description": ""
+        "Z30_CALL_NO_TYPE": {
+            "description": "itemLevelCallNumberTypeId",
+            "target": ""
         },
-        "Z30_ENUMERATION_C": {
-            "target": "",
-            "description": ""
-        },
-        "Z30_ENUMERATION_D": {
-            "target": "",
-            "description": ""
-        },
-        "Z30_ENUMERATION_E": {
-            "target": "",
-            "description": ""
-        },
-        "Z30_ENUMERATION_F": {
-            "target": "",
-            "description": ""
-        },
-        "Z30_ENUMERATION_G": {
-            "target": "",
-            "description": ""
-        },
-        "Z30_ENUMERATION_H": {
-            "target": "",
-            "description": ""
+        "Z30_CATALOGER": {
+            "description": "",
+            "target": ""
         },
         "Z30_CHRONOLOGICAL_I": {
-            "target": "yearCaption",
-            "description": ""
+            "description": "",
+            "target": "chronology"
         },
         "Z30_CHRONOLOGICAL_J": {
-            "target": "",
-            "description": ""
+            "description": "chronology",
+            "target": ""
         },
         "Z30_CHRONOLOGICAL_K": {
-            "target": "",
-            "description": ""
+            "description": "chronology",
+            "target": ""
         },
         "Z30_CHRONOLOGICAL_L": {
-            "target": "",
-            "description": ""
+            "description": "chronology",
+            "target": ""
         },
         "Z30_CHRONOLOGICAL_M": {
-            "target": "",
-            "description": ""
+            "description": "chronology",
+            "target": ""
         },
-        "Z30_SUPP_INDEX_O": {
-            "target": "",
-            "description": ""
+        "Z30_COLLECTION": {
+            "description": "",
+            "target": "permanentLocationId"
         },
-        "Z30_85X_TYPE": {
-            "target": "",
-            "description": ""
+        "Z30_COPY_ID": {
+            "description": "",
+            "target": "copyNumber"
+        },
+        "Z30_DATE_LAST_RETURN": {
+            "description": "",
+            "target": ""
         },
         "Z30_DEPOSITORY_ID": {
-            "target": "",
-            "description": ""
+            "description": "",
+            "target": ""
         },
-        "Z30_LINKING_NUMBER": {
-            "target": "",
-            "description": ""
+        "Z30_DESCRIPTION": {
+            "description": "",
+            "target": "descriptionOfPieces"
+        },
+        "Z30_ENUMERATION_A": {
+            "description": "",
+            "target": "enumeration"
+        },
+        "Z30_ENUMERATION_B": {
+            "description": "",
+            "target": "enumeration"
+        },
+        "Z30_ENUMERATION_C": {
+            "description": "",
+            "target": "enumeration"
+        },
+        "Z30_ENUMERATION_D": {
+            "description": "",
+            "target": "enumeration"
+        },
+        "Z30_ENUMERATION_E": {
+            "description": "",
+            "target": "enumeration"
+        },
+        "Z30_ENUMERATION_F": {
+            "description": "",
+            "target": "enumeration"
+        },
+        "Z30_ENUMERATION_G": {
+            "description": "",
+            "target": "enumeration"
+        },
+        "Z30_ENUMERATION_H": {
+            "description": "",
+            "target": "enumeration"
+        },
+        "Z30_EXPECTED_ARRIVAL_DATE": {
+            "description": "",
+            "target": ""
         },
         "Z30_GAP_INDICATOR": {
-            "target": "",
-            "description": ""
+            "description": "",
+            "target": ""
         },
-        "Z30_MAINTENANCE_COUNT": {
-            "target": "",
-            "description": ""
+        "Z30_HOL_DOC_NUMBER_X": {
+            "description": "",
+            "target": "holdingsRecordId"
         },
-        "Z30_PROCESS_STATUS_DATE": {
-            "target": "",
-            "description": ""
+        "Z30_HOUR_LAST_RETURN": {
+            "description": "",
+            "target": ""
         },
-        "Z30_UPD_TIME_STAMP": {
-            "target": "",
-            "description": ""
+        "Z30_INVENTORY_NUMBER": {
+            "description": "",
+            "target": "accessionNumber"
+        },
+        "Z30_INVENTORY_NUMBER_DATE": {
+            "description": "",
+            "target": ""
+        },
+        "Z30_IP_LAST_RETURN": {
+            "description": "",
+            "target": ""
         },
         "Z30_IP_LAST_RETURN_V6": {
-            "target": "",
-            "description": ""
+            "description": "",
+            "target": ""
+        },
+        "Z30_ISSUE_DATE": {
+            "description": "",
+            "target": "chronology"
+        },
+        "Z30_ITEM_PROCESS_STATUS": {
+            "description": "",
+            "target": "notes"
+        },
+        "Z30_ITEM_STATISTIC": {
+            "description": "",
+            "target": "statisticalCodeIds"
+        },
+        "Z30_ITEM_STATUS": {
+            "description": "",
+            "target": "status.name"
+        },
+        "Z30_LAST_SHELF_REPORT_DATE": {
+            "description": "",
+            "target": ""
+        },
+        "Z30_LINKING_NUMBER": {
+            "description": "",
+            "target": ""
+        },
+        "Z30_MAINTENANCE_COUNT": {
+            "description": "",
+            "target": ""
+        },
+        "Z30_MATERIAL": {
+            "description": "",
+            "target": "materialTypeId"
+        },
+        "Z30_NO_LOANS": {
+            "description": "",
+            "target": ""
+        },
+        "Z30_NOTE_CIRCULATION": {
+            "description": "",
+            "target": "circulationNotes"
+        },
+        "Z30_NOTE_INTERNAL": {
+            "description": "",
+            "target": "notes"
+        },
+        "Z30_NOTE_OPAC": {
+            "description": "",
+            "target": "notes"
+        },
+        "Z30_ON_SHELF_DATE": {
+            "description": "",
+            "target": ""
+        },
+        "Z30_ON_SHELF_SEQ": {
+            "description": "",
+            "target": ""
+        },
+        "Z30_OPEN_DATE": {
+            "description": "",
+            "target": ""
+        },
+        "Z30_ORDER_NUMBER": {
+            "description": "Order number",
+            "target": "notes"
+        },
+        "Z30_PAGES": {
+            "description": "",
+            "target": ""
+        },
+        "Z30_PRICE": {
+            "description": "",
+            "target": ""
+        },
+        "Z30_PROCESS_STATUS_DATE": {
+            "description": "",
+            "target": ""
+        },
+        "Z30_REC_KEY": {
+            "description": "",
+            "target": "formerIds"
+        },
+        "Z30_REC_KEY_2": {
+            "description": "",
+            "target": ""
+        },
+        "Z30_REC_KEY_3": {
+            "description": "",
+            "target": ""
+        },
+        "Z30_SHELF_REPORT_NUMBER": {
+            "description": "",
+            "target": ""
+        },
+        "Z30_SUB_LIBRARY": {
+            "description": "",
+            "target": "permanentLoanTypeId"
+        },
+        "Z30_SUPP_INDEX_O": {
+            "description": "",
+            "target": ""
+        },
+        "Z30_TEMP_LOCATION": {
+            "description": "",
+            "target": "temporaryLocationId"
+        },
+        "Z30_UPD_TIME_STAMP": {
+            "description": "",
+            "target": ""
+        },
+        "Z30_UPDATE_DATE": {
+            "description": "",
+            "target": ""
         }
     },
-    "legacyIdField": "Z30_BARCODE",
-    "legacyFieldsToCountValuesFor":["Z30_ITEM_STATUS"],
-    "itemsFileType": "TSV",
     "itemsFileDelimiter": "",
+    "itemsFileType": "TSV",
+    "legacyFieldsToCountValuesFor": [
+        "Z30_ITEM_STATUS"
+    ],
+    "legacyIdField": "Z30_BARCODE",
     "mapOnLocationField": "code"
 }
