@@ -262,6 +262,9 @@
         }
     },
     "itemsFileDelimiter": "",
+    "defaultLoantypeName": "Migration-technical",
+    "defaultLocationCode": "tech",
+    "defaultMaterialTypeName": "unspecified",
     "itemsFileType": "TSV",
     "legacyFieldsToCountValuesFor": [
         "Z30_ITEM_STATUS"
