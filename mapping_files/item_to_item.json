@@ -13,11 +13,11 @@
             "target": ""
         },
         "Z30_BARCODE": {
-            "description": "",
+            "description": "Barcode. Mapped from Spreadsheet",
             "target": "barcode"
         },
         "Z30_CALL_NO": {
-            "description": "",
+            "description": "Mapped from spreadsheet. Might need further mapping",
             "target": "itemLevelCallNumber"
         },
         "Z30_CALL_NO_2": {
@@ -65,11 +65,11 @@
             "target": ""
         },
         "Z30_COLLECTION": {
-            "description": "",
+            "description": "Mapped. Permanent location",
             "target": "permanentLocationId"
         },
         "Z30_COPY_ID": {
-            "description": "",
+            "description": "Mapped from Spreadsheet",
             "target": "copyNumber"
         },
         "Z30_DATE_LAST_RETURN": {
@@ -81,31 +81,31 @@
             "target": ""
         },
         "Z30_DESCRIPTION": {
-            "description": "",
+            "description": "Mapped from Spreadsheet",
             "target": "descriptionOfPieces"
         },
         "Z30_ENUMERATION_A": {
-            "description": "",
+            "description": "Mapped from Spreadsheet",
             "target": "enumeration"
         },
         "Z30_ENUMERATION_B": {
-            "description": "",
+            "description": "Mapped from Spreadsheet",
             "target": "enumeration"
         },
         "Z30_ENUMERATION_C": {
-            "description": "",
+            "description": "Mapped from Spreadsheet",
             "target": "enumeration"
         },
         "Z30_ENUMERATION_D": {
-            "description": "",
+            "description": "Mapped from Spreadsheet",
             "target": "enumeration"
         },
         "Z30_ENUMERATION_E": {
-            "description": "",
+            "description": "Mapped from Spreadsheet",
             "target": "enumeration"
         },
         "Z30_ENUMERATION_F": {
-            "description": "",
+            "description": "Mapped from Spreadsheet",
             "target": "enumeration"
         },
         "Z30_ENUMERATION_G": {
@@ -113,7 +113,7 @@
             "target": "enumeration"
         },
         "Z30_ENUMERATION_H": {
-            "description": "",
+            "description": "Mapped from Spreadsheet",
             "target": "enumeration"
         },
         "Z30_EXPECTED_ARRIVAL_DATE": {
@@ -161,7 +161,7 @@
             "target": "statisticalCodeIds"
         },
         "Z30_ITEM_STATUS": {
-            "description": "",
+            "description": "Not yet mapped",
             "target": "status.name"
         },
         "Z30_LAST_SHELF_REPORT_DATE": {
@@ -177,7 +177,7 @@
             "target": ""
         },
         "Z30_MATERIAL": {
-            "description": "",
+            "description": "Mapped from spreadsheet",
             "target": "materialTypeId"
         },
         "Z30_NO_LOANS": {
@@ -185,11 +185,11 @@
             "target": ""
         },
         "Z30_NOTE_CIRCULATION": {
-            "description": "",
+            "description": "Not yet mapped",
             "target": "circulationNotes"
         },
         "Z30_NOTE_INTERNAL": {
-            "description": "",
+            "description": "Mapped from spreadsheet. ",
             "target": "notes"
         },
         "Z30_NOTE_OPAC": {
@@ -249,7 +249,7 @@
             "target": ""
         },
         "Z30_TEMP_LOCATION": {
-            "description": "",
+            "description": "Mapped. Temporary location",
             "target": "temporaryLocationId"
         },
         "Z30_UPD_TIME_STAMP": {
