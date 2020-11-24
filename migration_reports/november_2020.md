@@ -1,3 +1,51 @@
+- [Things solved with this migration](#things-solved-with-this-migration)
+- [Things to solve with this migration](#things-to-solve-with-this-migration)
+- [Issues remaining or surfaced as part of this migration](#issues-remaining-or-surfaced-as-part-of-this-migration)
+  * [Bibliographic records transformation counters](#bibliographic-records-transformation-counters)
+  * [Record status (leader pos 5) - 21 things](#record-status--leader-pos-5----21-things)
+  * [Mapped Instance types - 2 things](#mapped-instance-types---2-things)
+  * [Mapped identifier types - 13 things](#mapped-identifier-types---13-things)
+  * [Incomplete entity mapping (a code issue) - 24 things](#incomplete-entity-mapping--a-code-issue----24-things)
+  * [Mapped Contributor name types - 3 things](#mapped-contributor-name-types---3-things)
+  * [Mapped contributor types - 132 things](#mapped-contributor-types---132-things)
+  * [Instance formats - 48 things](#instance-formats---48-things)
+  * [Mapped note types - 53 things](#mapped-note-types---53-things)
+  * [Instance format ids handling (337 + 338) - 23 things](#instance-format-ids-handling--337---338----23-things)
+  * [Matched Modes of issuance code - 4 things](#matched-modes-of-issuance-code---4-things)
+  * [Mapped Alternative title types - 4 things](#mapped-alternative-title-types---4-things)
+  * [Mapped electronic access relationships types - 4 things](#mapped-electronic-access-relationships-types---4-things)
+  * [Unrecognized language codes in records - 1666 things](#unrecognized-language-codes-in-records---1666-things)
+  * [Bib records that failed to parse. - - 16 things](#bib-records-that-failed-to-parse-----16-things)
+  * [Records failed to migrate due to Value errors found in Transformation - 186 things](#records-failed-to-migrate-due-to-value-errors-found-in-transformation---186-things)
+  * [unspecified Modes of issuance code - 5 things](#unspecified-modes-of-issuance-code---5-things)
+  * [Mapped FOLIO fields](#mapped-folio-fields)
+  * [Mapped Legacy fields](#mapped-legacy-fields)
+- [MFHD records transformation results](#mfhd-records-transformation-results)
+  * [MFHD records transformation counters](#mfhd-records-transformation-counters)
+  * [Record status (leader pos 5) - 3 things](#record-status--leader-pos-5----3-things)
+  * [Leader 06 (Holdings type) - 3 things](#leader-06--holdings-type----3-things)
+  * [Undhandled condition defined in mapping rules - 3 things](#undhandled-condition-defined-in-mapping-rules---3-things)
+  * [Legacy location codes - 439 things](#legacy-location-codes---439-things)
+  * [Mapped Locations - 377 things](#mapped-locations---377-things)
+  * [Incomplete entity mapping (a code issue) - 4 things](#incomplete-entity-mapping--a-code-issue----4-things)
+  * [Locations - Unmapped legacy codes - 63 things](#locations---unmapped-legacy-codes---63-things)
+  * [Mapped electronic access relationships types - 4 things](#mapped-electronic-access-relationships-types---4-things-1)
+  * [Mapped note types - 1 things](#mapped-note-types---1-things)
+  * [Mapped FOLIO fields](#mapped-folio-fields-1)
+  * [Mapped Legacy fields](#mapped-legacy-fields-1)
+- [Item records transformation results](#item-records-transformation-results)
+  * [Item records transformation counters](#item-records-transformation-counters)
+  * [Mapped loan types - 132 things](#mapped-loan-types---132-things)
+  * [Mapped Material Types - 41 things](#mapped-material-types---41-things)
+  * [Legacy item status - Not mapped - 41 things](#legacy-item-status---not-mapped---41-things)
+  * [Field Contents - Z30_ITEM_STATUS - 41 things](#field-contents---z30-item-status---41-things)
+  * [Missing location codes - 53 things](#missing-location-codes---53-things)
+  * [Circulation notes - 1 things](#circulation-notes---1-things)
+  * [Unapped Material Types - 13 things](#unapped-material-types---13-things)
+  * [Unmapped loan types - 106 things](#unmapped-loan-types---106-things)
+  * [Mapped FOLIO fields](#mapped-folio-fields-2)
+  * [Mapped Legacy fields](#mapped-legacy-fields-2)
+
 # Things solved with this migration
 * Further alignment with the [FC mapping document](https://github.com/5-C-Folio/Inventory/blob/main/FC%20Marc-to-Instance_Nov20.xlsx). For remaining issues, see below.
 * Give Aron breakdown of the unmapped loan types
@@ -24,8 +72,7 @@
 Time Run: 2020-11-22T23:04:55.757017   
 ## Bibliographic records transformation counters   
   Measure   | Count   
-   
---- | ---:   
+   --- | ---:   
 Bib records that faile transformation | 186   
 Legacy id and 001 not found. Failing record  | 2   
 MARC21 Records successfully parsed | 6,262,661   
