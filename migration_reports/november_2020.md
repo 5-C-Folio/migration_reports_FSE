@@ -60,6 +60,7 @@
 * Records with 583 http://eastlibraries.org/retained-materials url are being duplicated. Discuss, dedupe or move to another level (Holdings, Item)
 * Item map not updated with latest work on Item mapping
 * 657 Local classification? 
+* Map Instance type ids properly.
 * 
 * Count unspecified Material Types
 * Discuss item status at separate meeting ...process_stataus (count and discuss)
