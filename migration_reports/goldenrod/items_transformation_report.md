@@ -2,7 +2,6 @@
 Time Finished: 2020-12-14T16:47:14.019487   
 ## Item records transformation counters   
   Measure   | Count   
-   
 --- | ---:   
 Duplicate item ids | 596,023   
 Holdings id not in map | 44,133   
@@ -18,6 +17,7 @@ Total failed items with Value errors. Items not migrated | 44,297
    
 ## Mapped loan types    
 <details><summary>Click to expand all 139 things</summary>     
+  
 Measure | Count   
 --- | ---:   
 2 Week: MHLIB - 09 | 287   
@@ -163,6 +163,7 @@ Standard Loan: UMSCI - 01 | 162224
    
 ## Mapped Material Types    
 <details><summary>Click to expand all 43 things</summary>     
+  
 Measure | Count   
 --- | ---:   
 ADMIN - ADMIN | 5181   
@@ -211,7 +212,8 @@ Videocassette - VCASS | 19273
 </details>   
    
 ## Legacy item status - Not mapped    
-<details><summary>Click to expand all 40 things</summary>     
+<details><summary>Click to expand all 40 things</summary>  
+  
 Measure | Count   
 --- | ---:   
 01 | 4685711   
@@ -258,6 +260,7 @@ Measure | Count
    
 ## Field Contents - Z30_ITEM_STATUS    
 <details><summary>Click to expand all 41 things</summary>     
+  
 Measure | Count   
 --- | ---:   
  | 77   
@@ -305,6 +308,7 @@ Measure | Count
    
 ## Missing location codes    
 <details><summary>Click to expand all 52 things</summary>     
+  
 Measure | Count   
 --- | ---:   
 ACDEP | 24165   
@@ -363,13 +367,15 @@ URFS | 1
    
 ## Circulation notes    
 <details><summary>Click to expand all 1 things</summary>     
+  
 Measure | Count   
 --- | ---:   
 Circ note | 196659   
 </details>   
    
 ## ValueErrors    
-<details><summary>Click to expand all 208 things</summary>     
+<details><summary>Click to expand all 208 things</summary>   
+  
 Measure | Count   
 --- | ---:   
 Holdings id 00000000 not in map | 1   
@@ -584,6 +590,7 @@ Holdings id HAM-18589364 not in map | 2
    
 ## Unapped Material Types    
 <details><summary>Click to expand all 10 things</summary>     
+  
 Measure | Count   
 --- | ---:   
 unspecified - AUDIO | 16198   
@@ -599,7 +606,8 @@ unspecified - WSITE | 532
 </details>   
    
 ## Unmapped loan types    
-<details><summary>Click to expand all 99 things</summary>     
+<details><summary>Click to expand all 99 things</summary>    
+  
 Measure | Count   
 --- | ---:   
 aafef5d1-fd94-4194-8908-27ca373c1191 - ACASP - 10 | 5   
