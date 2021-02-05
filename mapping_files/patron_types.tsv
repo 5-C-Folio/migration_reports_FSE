@@ -1,2 +1,3 @@
 legacy_patron_type	folio_patron_group
 some_type	some_folio_type
+some_other_type	folio_type2
