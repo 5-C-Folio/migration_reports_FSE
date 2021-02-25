@@ -533,6 +533,7 @@
                 "target": "permanentLocationId",
                 "description": "",
                 "subfield": [
+                    "b",
                     "c"
                 ],
                 "rules": [
@@ -546,7 +547,8 @@
                             }
                         ]
                     }
-                ]
+                ],
+                    "applyRulesOnConcatenatedData": true
             },
             {
                 "target": "callNumberPrefix",
