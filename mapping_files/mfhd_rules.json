@@ -514,22 +514,6 @@
                 ]
             },
             {
-                "target": "holdingsTypeId",
-                "description": "special case? if serv or remo, set electronic as holdingstype",
-                "subfield": [
-                    "b"
-                ],
-                "rules": [
-                    {
-                        "conditions": [
-                            {
-                                "type": "set_electronic_if_serv,remo"
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
                 "target": "permanentLocationId",
                 "description": "",
                 "subfield": [
