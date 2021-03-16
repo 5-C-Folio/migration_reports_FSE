@@ -1,10 +1,10 @@
 # Bibliographic records transformation results   
-Time Run: 2021-02-25T23:11:34.003716   
+Time Run: 2021-03-02T11:07:09.598037   
 ## Bibliographic records transformation counters   
 Measure | Count   
 --- | ---:   
 Bib records that faile transformation | 97   
-Ids written to bib->instance id map | 5,249,256   
+Ids written to bib->instance id map | 6,463,870   
 Legacy id and 001 not found. Failing record  | 2   
 MARC21 Records successfully parsed | 5,249,353   
 MARC21 Records with encoding errors - parsing failed | 18   
@@ -3900,8 +3900,7 @@ Measure | Count
 0en not recognized for ['000090519', '001525621'] | 2   
 0en not recognized for ['000112266'] | 2   
 0en not recognized for ['000112267'] | 2   
-0en not recognized for ['000122811', '001561792'] | 2   
-0en not recognized for ['000139917', '001582341'] | 2   
+0en not recognized for ['000142006', '001584866'] | 2   
 0en not recognized for ['000174801'] | 2   
 0en not recognized for ['000197015'] | 2   
 0en not recognized for ['000207513'] | 2   
@@ -3915,12 +3914,11 @@ Measure | Count
 0en not recognized for ['000386671'] | 2   
 0en not recognized for ['000729189'] | 2   
 0en not recognized for ['000741835'] | 1   
-0en not recognized for ['000751240', '010164250'] | 2   
 0en not recognized for ['000799363', '004862038', '001928860'] | 2   
+0en not recognized for ['000799487', '002896397', '001930063'] | 2   
 0en not recognized for ['000799495', '000430142'] | 2   
 0en not recognized for ['000803725'] | 2   
-0en not recognized for ['000866625', '001436046'] | 2   
-0en not recognized for ['001185519', '001920342'] | 2   
+0en not recognized for ['001436046', '000866625'] | 2   
 0en not recognized for ['001440572'] | 2   
 0en not recognized for ['001442678', '016198321'] | 2   
 0en not recognized for ['001450513'] | 2   
@@ -3932,10 +3930,11 @@ Measure | Count
 0en not recognized for ['001542983'] | 2   
 0en not recognized for ['001559876'] | 2   
 0en not recognized for ['001561255'] | 1   
+0en not recognized for ['001561792', '000122811'] | 2   
 0en not recognized for ['001564213'] | 2   
 0en not recognized for ['001565962'] | 2   
 0en not recognized for ['001572150'] | 2   
-0en not recognized for ['001584866', '000142006'] | 2   
+0en not recognized for ['001582341', '000139917'] | 2   
 0en not recognized for ['001587376'] | 2   
 0en not recognized for ['001598158'] | 2   
 0en not recognized for ['001600379'] | 2   
@@ -3948,7 +3947,6 @@ Measure | Count
 0en not recognized for ['001639749'] | 2   
 0en not recognized for ['001640363'] | 2   
 0en not recognized for ['001659851'] | 2   
-0en not recognized for ['001669926', '002325124'] | 2   
 0en not recognized for ['001684457'] | 2   
 0en not recognized for ['001703260'] | 2   
 0en not recognized for ['001833765'] | 2   
@@ -3959,6 +3957,7 @@ Measure | Count
 0en not recognized for ['001904482'] | 2   
 0en not recognized for ['001909627'] | 2   
 0en not recognized for ['001910016'] | 2   
+0en not recognized for ['001920342', '001185519'] | 2   
 0en not recognized for ['001925263'] | 1   
 0en not recognized for ['001928293', '002878308'] | 2   
 0en not recognized for ['001929993'] | 2   
@@ -3966,13 +3965,13 @@ Measure | Count
 0en not recognized for ['001947414'] | 2   
 0en not recognized for ['001947947'] | 2   
 0en not recognized for ['002246591'] | 2   
+0en not recognized for ['002325124', '001669926'] | 2   
 0en not recognized for ['002359090'] | 1   
 0en not recognized for ['002384844'] | 2   
 0en not recognized for ['002390089', '011253231'] | 2   
 0en not recognized for ['002653318'] | 2   
 0en not recognized for ['002693206'] | 2   
 0en not recognized for ['002882074'] | 2   
-0en not recognized for ['002896397', '000799487', '001930063'] | 2   
 0en not recognized for ['003165554'] | 2   
 0en not recognized for ['003181009'] | 1   
 0en not recognized for ['003261309'] | 2   
@@ -3985,6 +3984,7 @@ Measure | Count
 0en not recognized for ['004861335'] | 2   
 0en not recognized for ['004861621'] | 2   
 0en not recognized for ['004996143'] | 2   
+0en not recognized for ['010164250', '000751240'] | 2   
 0en not recognized for ['010340390'] | 2   
 0en not recognized for ['010561301', '001926944'] | 2   
 0en not recognized for ['010815898'] | 2   
@@ -4001,7 +4001,7 @@ Measure | Count
 1en not recognized for ['000429798'] | 2   
 231 not recognized for ['004423277'] | 1   
 319 not recognized for ['000160477'] | 1   
-3ng not recognized for ['002107159', '001308601', '003963994'] | 1   
+3ng not recognized for ['003963994', '002107159', '001308601'] | 1   
 445 not recognized for ['000186983', '001642312'] | 1   
 519 not recognized for ['002636608'] | 1   
 55a not recognized for ['002636608'] | 1   
@@ -4036,9 +4036,9 @@ ait not recognized for ['002158102'] | 1
 anc not recognized for ['016037592'] | 1   
 ani not recognized for ['000952329'] | 1   
 aoa not recognized for ['002542357'] | 1   
-arb not recognized for ['000022060', '002869059'] | 1   
 arb not recognized for ['000679229'] | 1   
 arb not recognized for ['001177155'] | 1   
+arb not recognized for ['002869059', '000022060'] | 1   
 are not recognized for ['002293008'] | 1   
 are not recognized for ['014323359'] | 1   
 are not recognized for ['014631949'] | 1   
@@ -4228,35 +4228,37 @@ cro not recognized for ['000190287'] | 1
 cro not recognized for ['000229817'] | 1   
 cro not recognized for ['000238058'] | 2   
 cro not recognized for ['000253749'] | 1   
-cro not recognized for ['000264743', '002956413'] | 1   
+cro not recognized for ['000255356', '002924097', '001043937'] | 1   
 cro not recognized for ['000265724'] | 1   
-cro not recognized for ['000292722', '003042785', '001075878'] | 1   
-cro not recognized for ['000326731', '003094418', '001102492', '000781588'] | 1   
+cro not recognized for ['000277011', '002984811'] | 1   
+cro not recognized for ['000294692', '003046615'] | 1   
+cro not recognized for ['000305097', '003294437', '001086415'] | 1   
+cro not recognized for ['000326731', '000781588', '003094418', '001102492'] | 1   
 cro not recognized for ['000420019'] | 1   
-cro not recognized for ['000443903', '003122113', '001945850'] | 1   
-cro not recognized for ['000481584', '001232596'] | 1   
+cro not recognized for ['000443903', '001945850', '003122113'] | 1   
 cro not recognized for ['000506288', '002928270'] | 1   
 cro not recognized for ['000533811'] | 1   
 cro not recognized for ['000663205'] | 1   
 cro not recognized for ['000720723'] | 1   
 cro not recognized for ['000811009'] | 1   
-cro not recognized for ['000866639', '002843837'] | 1   
+cro not recognized for ['000870560', '002876603', '001441781', '004874003'] | 1   
 cro not recognized for ['001014484'] | 2   
-cro not recognized for ['001043937', '002924097', '000255356'] | 1   
 cro not recognized for ['001063081'] | 1   
-cro not recognized for ['001069299', '003024306', '000772635', '000284761', '001757495'] | 1   
+cro not recognized for ['001069299', '003024306', '001757495', '000284761', '000772635'] | 1   
 cro not recognized for ['001073225'] | 1   
+cro not recognized for ['001075878', '000292722', '003042785'] | 1   
 cro not recognized for ['001090520', '003079507'] | 1   
+cro not recognized for ['001140638', '001859117', '002992610'] | 1   
+cro not recognized for ['001195878', '001932148'] | 1   
+cro not recognized for ['001232596', '000481584'] | 1   
 cro not recognized for ['001232644'] | 1   
 cro not recognized for ['001232645'] | 1   
 cro not recognized for ['001232646'] | 1   
 cro not recognized for ['001419907'] | 1   
-cro not recognized for ['001438625', '002869866'] | 1   
 cro not recognized for ['001450067'] | 1   
 cro not recognized for ['001683435'] | 1   
 cro not recognized for ['001791730'] | 1   
 cro not recognized for ['001811696'] | 1   
-cro not recognized for ['001932148', '001195878'] | 1   
 cro not recognized for ['002409149'] | 1   
 cro not recognized for ['002579172'] | 1   
 cro not recognized for ['002607409'] | 1   
@@ -4281,8 +4283,10 @@ cro not recognized for ['002793683'] | 1
 cro not recognized for ['002795228'] | 1   
 cro not recognized for ['002805052'] | 1   
 cro not recognized for ['002822119'] | 1   
+cro not recognized for ['002843837', '000866639'] | 1   
 cro not recognized for ['002844696'] | 1   
 cro not recognized for ['002869440'] | 1   
+cro not recognized for ['002869866', '001438625'] | 1   
 cro not recognized for ['002874986'] | 1   
 cro not recognized for ['002891694'] | 1   
 cro not recognized for ['002896000'] | 1   
@@ -4299,14 +4303,13 @@ cro not recognized for ['002935085'] | 1
 cro not recognized for ['002950458'] | 1   
 cro not recognized for ['002950994'] | 1   
 cro not recognized for ['002954282'] | 1   
+cro not recognized for ['002956413', '000264743'] | 1   
 cro not recognized for ['002957170'] | 1   
 cro not recognized for ['002965201', '001739781'] | 1   
 cro not recognized for ['002971571'] | 1   
 cro not recognized for ['002971599'] | 1   
-cro not recognized for ['002984811', '000277011'] | 1   
 cro not recognized for ['002984973'] | 1   
 cro not recognized for ['002986963', '001137867'] | 1   
-cro not recognized for ['002992610', '001859117', '001140638'] | 1   
 cro not recognized for ['002995184'] | 1   
 cro not recognized for ['002998239'] | 1   
 cro not recognized for ['003004102'] | 1   
@@ -4315,7 +4318,6 @@ cro not recognized for ['003037109'] | 1
 cro not recognized for ['003037346'] | 1   
 cro not recognized for ['003040763'] | 1   
 cro not recognized for ['003041000'] | 1   
-cro not recognized for ['003046615', '000294692'] | 1   
 cro not recognized for ['003049050'] | 1   
 cro not recognized for ['003049913'] | 1   
 cro not recognized for ['003063290'] | 1   
@@ -4332,13 +4334,11 @@ cro not recognized for ['003276440'] | 1
 cro not recognized for ['003278831'] | 1   
 cro not recognized for ['003279528', '000257024', '001727686'] | 1   
 cro not recognized for ['003291243'] | 1   
-cro not recognized for ['003294437', '001086415', '000305097'] | 1   
 cro not recognized for ['003326880'] | 2   
 cro not recognized for ['003673410'] | 1   
 cro not recognized for ['003680197'] | 1   
 cro not recognized for ['003826022'] | 1   
 cro not recognized for ['003826025'] | 1   
-cro not recognized for ['004874003', '001441781', '002876603', '000870560'] | 1   
 cro not recognized for ['004874289'] | 1   
 cro not recognized for ['004955595'] | 1   
 cro not recognized for ['016195508', '000487683'] | 1   
@@ -4350,13 +4350,13 @@ cro not recognized for ['016202422'] | 1
 cse not recognized for ['001476025'] | 1   
 csz not recognized for ['001594164', '002588644'] | 1   
 cyr not recognized for ['000505529'] | 1   
-cyr not recognized for ['014967084', '015074975'] | 1   
 cyr not recognized for ['015006476'] | 1   
+cyr not recognized for ['015074975', '014967084'] | 1   
 dag not recognized for ['002162466'] | 1   
 dam not recognized for ['002154479'] | 1   
 dau not recognized for ['003198224'] | 1   
 dca not recognized for ['002143898'] | 2   
-dcg not recognized for ['000793116', '000387123'] | 2   
+dcg not recognized for ['000387123', '000793116'] | 2   
 dcg not recognized for ['003585621'] | 2   
 dcj not recognized for ['000738771'] | 2   
 ddu not recognized for ['017303482'] | 1   
@@ -4386,8 +4386,8 @@ ebg not recognized for ['002100892'] | 1
 ebg not recognized for ['003400159'] | 1   
 efa not recognized for ['003251773'] | 1   
 egg not recognized for ['000212916'] | 1   
-egn not recognized for ['000381678', '001867673', '001147235'] | 1   
 egn not recognized for ['000555167'] | 1   
+egn not recognized for ['001147235', '001867673', '000381678'] | 1   
 egn not recognized for ['002211472'] | 1   
 egn not recognized for ['003999612'] | 1   
 egr not recognized for ['003183640'] | 1   
@@ -4412,10 +4412,9 @@ emg not recognized for ['004008434'] | 1
 emg not recognized for ['004447925'] | 1   
 emg not recognized for ['010858848'] | 1   
 emg not recognized for ['013217267'] | 1   
-emn not recognized for ['000414183', '001910727', '002663959', '001176606'] | 1   
-emn not recognized for ['001970487', '000468917'] | 1   
+emn not recognized for ['000468917', '001970487'] | 1   
+emn not recognized for ['001176606', '002663959', '001910727', '000414183'] | 1   
 end not recognized for ['000401465'] | 1   
-end not recognized for ['000462967', '001963977'] | 1   
 end not recognized for ['000533363'] | 1   
 end not recognized for ['000550801'] | 1   
 end not recognized for ['000583966'] | 1   
@@ -4424,6 +4423,7 @@ end not recognized for ['000703202'] | 1
 end not recognized for ['001154959'] | 1   
 end not recognized for ['001723349'] | 1   
 end not recognized for ['001731452', '002943259'] | 1   
+end not recognized for ['001963977', '000462967'] | 1   
 end not recognized for ['002014235'] | 1   
 end not recognized for ['002034299'] | 1   
 end not recognized for ['002103031'] | 1   
@@ -4439,9 +4439,7 @@ ene not recognized for ['000542292'] | 1
 enf not recognized for ['000151622'] | 1   
 enf not recognized for ['000229365'] | 1   
 enf not recognized for ['000367572'] | 1   
-enf not recognized for ['000407052', '001902104'] | 1   
 enf not recognized for ['000598822'] | 1   
-enf not recognized for ['000636940', '004089867', '002139183'] | 1   
 enf not recognized for ['000639093'] | 1   
 enf not recognized for ['001301202'] | 1   
 enf not recognized for ['001327646'] | 1   
@@ -4449,6 +4447,8 @@ enf not recognized for ['001408449'] | 1
 enf not recognized for ['001716659'] | 1   
 enf not recognized for ['001797945'] | 1   
 enf not recognized for ['001862961'] | 1   
+enf not recognized for ['001902104', '000407052'] | 1   
+enf not recognized for ['002139183', '000636940', '004089867'] | 1   
 enf not recognized for ['002679749'] | 1   
 enf not recognized for ['002864676'] | 1   
 enf not recognized for ['002966625'] | 1   
@@ -4461,21 +4461,21 @@ enf not recognized for ['003999507'] | 1
 enf not recognized for ['004009803', '002117968'] | 1   
 enf not recognized for ['016372801'] | 1   
 enf not recognized for ['016960737'] | 1   
-enh not recognized for ['004318973', '004321947', '004436812'] | 1   
-enh not recognized for ['004940404', '004973596'] | 1   
+enh not recognized for ['004436812', '004318973', '004321947'] | 1   
+enh not recognized for ['004973596', '004940404'] | 1   
 enh not recognized for ['010473009'] | 1   
 enh not recognized for ['010660306'] | 1   
 enk not recognized for ['000120405'] | 1   
 enk not recognized for ['000556154'] | 1   
 enk not recognized for ['000921066'] | 1   
-enk not recognized for ['001375273', '002221901', '000708763', '004269727'] | 1   
 enk not recognized for ['001407404'] | 1   
 enk not recognized for ['001559065'] | 1   
 enk not recognized for ['002660840'] | 1   
 enk not recognized for ['004225838'] | 1   
+enk not recognized for ['004269727', '002221901', '001375273', '000708763'] | 1   
 enk not recognized for ['004462793'] | 1   
 enk not recognized for ['012112614'] | 2   
-enk not recognized for ['012315846', '012295447', '012299502'] | 1   
+enk not recognized for ['012299502', '012295447', '012315846'] | 1   
 enk not recognized for ['017346755'] | 2   
 enn not recognized for ['016479145', '001683600'] | 1   
 eno not recognized for ['016182105'] | 1   
@@ -4487,7 +4487,7 @@ ent not recognized for ['002120610'] | 1
 ent not recognized for ['002147612'] | 1   
 ent not recognized for ['002153882'] | 1   
 eny not recognized for ['003290445'] | 1   
-epa not recognized for ['000247380', '000761275', '001716502'] | 1   
+epa not recognized for ['000761275', '001716502', '000247380'] | 1   
 eun not recognized for ['013767082'] | 1   
 fer not recognized for ['000316620'] | 1   
 fer not recognized for ['000661917'] | 1   
@@ -4516,12 +4516,12 @@ ffr not recognized for ['001578495'] | 1
 fle not recognized for ['000011651', '001425967'] | 1   
 fle not recognized for ['000018191'] | 1   
 fle not recognized for ['000164599'] | 1   
-fle not recognized for ['000217223', '001014477'] | 1   
 fle not recognized for ['000292090'] | 1   
 fle not recognized for ['000441988'] | 1   
 fle not recognized for ['000501120'] | 1   
 fle not recognized for ['000511304'] | 1   
 fle not recognized for ['000516966'] | 1   
+fle not recognized for ['001014477', '000217223'] | 1   
 fle not recognized for ['001105664', '000330594'] | 1   
 fle not recognized for ['001272975'] | 1   
 fle not recognized for ['001434724'] | 1   
@@ -4530,6 +4530,7 @@ fle not recognized for ['001446416'] | 1
 fle not recognized for ['001452947'] | 1   
 fle not recognized for ['001459855'] | 1   
 fle not recognized for ['001487530'] | 1   
+fle not recognized for ['001630024', '002654715'] | 1   
 fle not recognized for ['001650522'] | 1   
 fle not recognized for ['001652484'] | 1   
 fle not recognized for ['001678702'] | 1   
@@ -4542,7 +4543,6 @@ fle not recognized for ['001843975'] | 1
 fle not recognized for ['001914035'] | 1   
 fle not recognized for ['001917498'] | 1   
 fle not recognized for ['002166915'] | 1   
-fle not recognized for ['002654715', '001630024'] | 1   
 fle not recognized for ['002681445'] | 1   
 fle not recognized for ['002691739'] | 1   
 fle not recognized for ['002742043'] | 1   
@@ -4605,14 +4605,14 @@ gke not recognized for ['000378748', '001864556', '003002324', '001144990'] | 1
 gmb not recognized for ['000251645'] | 1   
 gri not recognized for ['002793227'] | 1   
 grk not recognized for ['000145009'] | 1   
+grk not recognized for ['000406865', '001169002'] | 1   
 grk not recognized for ['000567587'] | 1   
 grk not recognized for ['000838847'] | 1   
-grk not recognized for ['001169002', '000406865'] | 1   
 grk not recognized for ['001194189'] | 1   
+grk not recognized for ['001551790', '000113086', '003780059'] | 1   
 grk not recognized for ['001559708'] | 1   
 grk not recognized for ['002027693'] | 1   
 grk not recognized for ['002126860'] | 1   
-grk not recognized for ['003780059', '001551790', '000113086'] | 1   
 grk not recognized for ['003830600'] | 1   
 grk not recognized for ['003892396'] | 1   
 grk not recognized for ['011246825'] | 1   
@@ -4641,7 +4641,7 @@ ico not recognized for ['000437725'] | 1
 ico not recognized for ['001886979', '002340856'] | 1   
 ico not recognized for ['010619181'] | 1   
 igb not recognized for ['000534329'] | 1   
-ijn not recognized for ['011252052', '011250723', '011877323'] | 1   
+ijn not recognized for ['011250723', '011877323', '011252052'] | 1   
 ila not recognized for ['004239940'] | 1   
 ill not recognized for ['003912873'] | 1   
 ing not recognized for ['000095583'] | 1   
@@ -4653,8 +4653,8 @@ isl not recognized for ['017310366'] | 1
 ite not recognized for ['004224169'] | 1   
 iti not recognized for ['001545532'] | 1   
 iti not recognized for ['004224169'] | 1   
-itl not recognized for ['000233776', '001027901'] | 1   
-itl not recognized for ['000893407', '003172916', '000055298'] | 1   
+itl not recognized for ['001027901', '000233776'] | 1   
+itl not recognized for ['003172916', '000893407', '000055298'] | 1   
 itn not recognized for ['000116697'] | 1   
 itr not recognized for ['002121165'] | 1   
 jan not recognized for ['000744631'] | 1   
@@ -4671,17 +4671,17 @@ jpa not recognized for ['000827159'] | 1
 jpa not recognized for ['001995238'] | 1   
 jpg not recognized for ['015705053'] | 1   
 jpm not recognized for ['001495557'] | 1   
-jrc not recognized for ['002401827', '001484613', '000896214'] | 1   
+jrc not recognized for ['001484613', '000896214', '002401827'] | 1   
 jun not recognized for ['000159120'] | 1   
 kaq not recognized for ['017241490'] | 2   
 kaq not recognized for ['017241492'] | 2   
 kaq not recognized for ['017241494'] | 2   
 kaq not recognized for ['017241496'] | 2   
 lag not recognized for ['000461617'] | 1   
+lag not recognized for ['001023729', '000228942', '004023642'] | 1   
 lag not recognized for ['001219232'] | 1   
 lag not recognized for ['001694038'] | 1   
 lag not recognized for ['001962762'] | 1   
-lag not recognized for ['004023642', '000228942', '001023729'] | 1   
 lag not recognized for ['004026392', '002068582'] | 1   
 lak not recognized for ['017192959'] | 1   
 lak not recognized for ['017192960'] | 1   
@@ -4726,7 +4726,7 @@ mia not recognized for ['003912873'] | 1
 mor not recognized for ['002689295'] | 1   
 mym not recognized for ['003194090'] | 1   
 n-m not recognized for ['017505475'] | 1   
-n-u not recognized for ['000345539', '001118044'] | 1   
+n-u not recognized for ['001118044', '000345539'] | 1   
 n-u not recognized for ['003135048'] | 1   
 ned not recognized for ['014322483'] | 1   
 neg not recognized for ['000752014'] | 1   
@@ -4761,15 +4761,15 @@ pah not recognized for ['003916177'] | 1
 pah not recognized for ['003948141'] | 1   
 pcc not recognized for ['003864540'] | 1   
 pcc not recognized for ['011190088'] | 1   
+pcc not recognized for ['012295431', '012488413'] | 1   
 pcc not recognized for ['012353357', '012381976'] | 1   
-pcc not recognized for ['012488413', '012295431'] | 1   
 pcc not recognized for ['016693711'] | 1   
 pen not recognized for ['001892108'] | 1   
 pji not recognized for ['011566230'] | 1   
 pre not recognized for ['001657920'] | 1   
 pre not recognized for ['002057563'] | 1   
 pri not recognized for ['017346768'] | 2   
-psa not recognized for ['000914741', '001518340'] | 1   
+psa not recognized for ['001518340', '000914741'] | 1   
 pun not recognized for ['002166445'] | 1   
 pun not recognized for ['002183578'] | 1   
 pur not recognized for ['002797563'] | 1   
@@ -4790,16 +4790,15 @@ res not recognized for ['016187457'] | 1
 ris not recognized for ['001953069'] | 1   
 rou not recognized for ['000225431'] | 1   
 rua not recognized for ['011126605'] | 1   
-rur not recognized for ['000163177', '000973948'] | 1   
 rur not recognized for ['000397052'] | 1   
 rur not recognized for ['000532872'] | 1   
 rur not recognized for ['000614093'] | 1   
 rur not recognized for ['000664846'] | 1   
 rur not recognized for ['000909059'] | 1   
-rur not recognized for ['000982441', '001626841'] | 1   
-rur not recognized for ['001157526', '004927115'] | 1   
+rur not recognized for ['000973948', '000163177'] | 1   
 rur not recognized for ['001508366'] | 1   
 rur not recognized for ['001556892'] | 1   
+rur not recognized for ['001626841', '000982441'] | 1   
 rur not recognized for ['001671802'] | 1   
 rur not recognized for ['001992415'] | 1   
 rur not recognized for ['002033860'] | 1   
@@ -4807,32 +4806,36 @@ rur not recognized for ['002290247'] | 1
 rur not recognized for ['002400837'] | 1   
 rur not recognized for ['002405803'] | 1   
 rur not recognized for ['002524436'] | 1   
-rur not recognized for ['002655916', '000177667', '000984574', '001630622'] | 1   
+rur not recognized for ['002655916', '000984574', '000177667', '001630622'] | 1   
 rur not recognized for ['003268171'] | 1   
 rur not recognized for ['003681884'] | 1   
 rur not recognized for ['003694138'] | 1   
+rur not recognized for ['004927115', '001157526'] | 1   
 rur not recognized for ['013749117'] | 1   
 s4r not recognized for ['000913104'] | 1   
 sap not recognized for ['000542998'] | 1   
 sap not recognized for ['001710468'] | 1   
-sca not recognized for ['001544079', '000105228', '003652532'] | 1   
+sca not recognized for ['003652532', '000105228', '001544079'] | 1   
 sen not recognized for ['000490603'] | 1   
 ser not recognized for ['000001899', '002806480'] | 1   
 ser not recognized for ['000003103'] | 1   
+ser not recognized for ['000003515', '002809538'] | 1   
 ser not recognized for ['000020639'] | 1   
 ser not recognized for ['000157890'] | 1   
 ser not recognized for ['000192044'] | 1   
 ser not recognized for ['000238926', '002771582'] | 1   
+ser not recognized for ['000242027', '002778280'] | 1   
 ser not recognized for ['000248621', '016196208'] | 1   
 ser not recognized for ['000254166'] | 1   
 ser not recognized for ['000255657'] | 1   
+ser not recognized for ['000261547', '001049245', '000765560', '002946261'] | 1   
 ser not recognized for ['000271395'] | 1   
 ser not recognized for ['000271689'] | 1   
 ser not recognized for ['000339326'] | 1   
 ser not recognized for ['000403042'] | 1   
-ser not recognized for ['000439944', '001941336'] | 1   
-ser not recognized for ['000440592', '003070393', '001204530'] | 1   
+ser not recognized for ['000423196', '001921885'] | 1   
 ser not recognized for ['000452103'] | 1   
+ser not recognized for ['000495296', '002950753'] | 1   
 ser not recognized for ['000510161'] | 1   
 ser not recognized for ['000521396', '002951347'] | 1   
 ser not recognized for ['000524470'] | 1   
@@ -4841,9 +4844,10 @@ ser not recognized for ['000728346'] | 1
 ser not recognized for ['000751382'] | 1   
 ser not recognized for ['000810681'] | 1   
 ser not recognized for ['000872182'] | 1   
+ser not recognized for ['000882117', '002911433'] | 1   
+ser not recognized for ['000884187', '003278288', '000042791', '000726169'] | 1   
 ser not recognized for ['000960935'] | 1   
 ser not recognized for ['001027363'] | 1   
-ser not recognized for ['001034453', '002779346'] | 1   
 ser not recognized for ['001087296'] | 1   
 ser not recognized for ['001145679'] | 1   
 ser not recognized for ['001186343'] | 1   
@@ -4852,13 +4856,15 @@ ser not recognized for ['001424384'] | 1
 ser not recognized for ['001427737'] | 1   
 ser not recognized for ['001683435'] | 2   
 ser not recognized for ['001685112'] | 1   
+ser not recognized for ['001717172', '002789873'] | 1   
 ser not recognized for ['001761015'] | 1   
+ser not recognized for ['001773568', '003056934'] | 1   
 ser not recognized for ['001811530'] | 1   
-ser not recognized for ['001921885', '000423196'] | 1   
-ser not recognized for ['001936060', '003001134', '001199121'] | 1   
-ser not recognized for ['001936357', '003004015', '001199421'] | 1   
+ser not recognized for ['001936357', '001199421', '003004015'] | 1   
+ser not recognized for ['001941336', '000439944'] | 1   
 ser not recognized for ['002018267'] | 1   
 ser not recognized for ['002097853'] | 1   
+ser not recognized for ['002153751', '000649494', '001334789', '004122085'] | 1   
 ser not recognized for ['002524029'] | 1   
 ser not recognized for ['002550526'] | 1   
 ser not recognized for ['002597858'] | 1   
@@ -4870,15 +4876,12 @@ ser not recognized for ['002753963'] | 1
 ser not recognized for ['002755593'] | 1   
 ser not recognized for ['002757897'] | 1   
 ser not recognized for ['002757919'] | 1   
-ser not recognized for ['002778280', '000242027'] | 1   
 ser not recognized for ['002778500'] | 1   
 ser not recognized for ['002778845'] | 1   
-ser not recognized for ['002789873', '001717172'] | 1   
-ser not recognized for ['002809538', '000003515'] | 1   
+ser not recognized for ['002779346', '001034453'] | 1   
 ser not recognized for ['002812400'] | 1   
 ser not recognized for ['002829641'] | 1   
 ser not recognized for ['002836006'] | 1   
-ser not recognized for ['002911433', '000882117'] | 1   
 ser not recognized for ['002915244'] | 1   
 ser not recognized for ['002923117'] | 1   
 ser not recognized for ['002924172'] | 1   
@@ -4889,10 +4892,9 @@ ser not recognized for ['002939422'] | 1
 ser not recognized for ['002942336'] | 1   
 ser not recognized for ['002943360'] | 1   
 ser not recognized for ['002945140'] | 1   
-ser not recognized for ['002946261', '000765560', '000261547', '001049245'] | 1   
 ser not recognized for ['002950050'] | 1   
-ser not recognized for ['002950753', '000495296'] | 1   
 ser not recognized for ['002973713'] | 1   
+ser not recognized for ['003001134', '001199121', '001936060'] | 1   
 ser not recognized for ['003004014'] | 1   
 ser not recognized for ['003004016'] | 1   
 ser not recognized for ['003004102'] | 1   
@@ -4905,7 +4907,7 @@ ser not recognized for ['003039599'] | 1
 ser not recognized for ['003040421'] | 1   
 ser not recognized for ['003041333'] | 1   
 ser not recognized for ['003046942'] | 1   
-ser not recognized for ['003056934', '001773568'] | 1   
+ser not recognized for ['003070393', '001204530', '000440592'] | 1   
 ser not recognized for ['003070398'] | 1   
 ser not recognized for ['003106347'] | 1   
 ser not recognized for ['003122169'] | 1   
@@ -4913,7 +4915,6 @@ ser not recognized for ['003122177'] | 1
 ser not recognized for ['003133827'] | 1   
 ser not recognized for ['003136735'] | 1   
 ser not recognized for ['003259101'] | 1   
-ser not recognized for ['003278288', '000042791', '000726169', '000884187'] | 1   
 ser not recognized for ['003278779'] | 1   
 ser not recognized for ['003375563'] | 1   
 ser not recognized for ['003685898'] | 1   
@@ -4923,7 +4924,6 @@ ser not recognized for ['003870565'] | 1
 ser not recognized for ['003963365'] | 1   
 ser not recognized for ['003999350'] | 1   
 ser not recognized for ['004106663'] | 1   
-ser not recognized for ['004122085', '000649494', '002153751', '001334789'] | 1   
 ser not recognized for ['004296380'] | 1   
 ser not recognized for ['016196209'] | 1   
 ser not recognized for ['016196975'] | 1   
@@ -4959,12 +4959,12 @@ snn not recognized for ['002001468'] | 1
 soa not recognized for ['003400159'] | 1   
 soa not recognized for ['015825683'] | 1   
 spd not recognized for ['003439571'] | 1   
-spe not recognized for ['001983405', '000483093'] | 1   
+spe not recognized for ['000483093', '001983405'] | 1   
 spe not recognized for ['002394818'] | 1   
 spe not recognized for ['002906508'] | 1   
 spe not recognized for ['004933481'] | 1   
 spn not recognized for ['000701791'] | 1   
-spn not recognized for ['002601194', '000967671'] | 1   
+spn not recognized for ['000967671', '002601194'] | 1   
 spq not recognized for ['000905589'] | 1   
 sqo not recognized for ['004106294'] | 1   
 srb not recognized for ['012465139'] | 1   
@@ -4983,7 +4983,7 @@ sze not recognized for ['002384256'] | 1
 tau not recognized for ['017243367'] | 2   
 the not recognized for ['017241871'] | 2   
 the not recognized for ['017241872'] | 2   
-thi not recognized for ['000813254', '000519579', '003681023', '001255428'] | 1   
+thi not recognized for ['003681023', '000519579', '001255428', '000813254'] | 1   
 tot not recognized for ['002143332'] | 1   
 tpn not recognized for ['002614639'] | 1   
 tro not recognized for ['000162275'] | 1   
@@ -5004,8 +5004,8 @@ unk not recognized for ['000153854'] | 1
 unk not recognized for ['000549081'] | 1   
 unk not recognized for ['000569050'] | 1   
 unk not recognized for ['000646304'] | 1   
+unk not recognized for ['000788558', '000369443', '002985079', '001136969'] | 1   
 unk not recognized for ['001064607'] | 1   
-unk not recognized for ['001136969', '000369443', '000788558', '002985079'] | 1   
 unk not recognized for ['001232647'] | 1   
 unk not recognized for ['001776845', '003063116', '001084853'] | 1   
 unk not recognized for ['001837245'] | 1   
@@ -5025,7 +5025,7 @@ uru not recognized for ['012949711'] | 1
 v7a not recognized for ['016276561', '017117478'] | 1   
 val not recognized for ['002061453'] | 1   
 vas not recognized for ['002729939'] | 1   
-vit not recognized for ['002007853', '003664800', '001248077', '000507596'] | 1   
+vit not recognized for ['001248077', '002007853', '003664800', '000507596'] | 1   
 wan not recognized for ['003366512'] | 1   
 wed not recognized for ['017241860'] | 2   
 wed not recognized for ['017241862'] | 2   
@@ -5341,13 +5341,13 @@ No title for ['000914521'] for ['000914521']  | 1
 No title for ['001061285'] for ['001061285']  | 1   
 No title for ['001621513'] for ['001621513']  | 1   
 No title for ['001656459'] for ['001656459']  | 1   
+No title for ['001753533', '016476444', '003017648'] for ['001753533', '016476444', '003017648']  | 1   
 No title for ['001807895'] for ['001807895']  | 1   
 No title for ['001843746'] for ['001843746']  | 1   
 No title for ['001852236'] for ['001852236']  | 1   
 No title for ['002062130'] for ['002062130']  | 1   
 No title for ['002155884'] for ['002155884']  | 1   
 No title for ['002939365'] for ['002939365']  | 1   
-No title for ['003017648', '001753533', '016476444'] for ['003017648', '001753533', '016476444']  | 1   
 No title for ['003167139'] for ['003167139']  | 1   
 No title for ['003388703'] for ['003388703']  | 1   
 No title for ['003389316'] for ['003389316']  | 1   
