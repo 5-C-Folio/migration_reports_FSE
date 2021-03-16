@@ -1,0 +1,346 @@
+{
+    "data": [
+        {
+            "folio_field": "_version",
+            "legacy_field": "Not mapped"
+        },
+        {
+            "folio_field": "accessionNumber",
+            "legacy_field": "Not mapped"
+        },
+        {
+            "folio_field": "barcode",
+            "legacy_field": "Z30_BARCODE"
+        },
+        {
+            "folio_field": "chronology",
+            "legacy_field": "Z30_CHRONOLOGICAL_I",
+            "note":"concat into single string"
+        },
+        {
+            "folio_field": "chronology",
+            "legacy_field": "Z30_CHRONOLOGICAL_J",
+            "note":"concat into single string"
+        },
+        {
+            "folio_field": "chronology",
+            "legacy_field": "Z30_CHRONOLOGICAL_K",
+            "note":"concat into single string"
+        },
+        {
+            "folio_field": "chronology",
+            "legacy_field": "Z30_CHRONOLOGICAL_L",
+            "note":"concat into single string"
+        },
+        {
+            "folio_field": "chronology",
+            "legacy_field": "Z30_CHRONOLOGICAL_M",
+            "note":"concat into single string"
+        },
+        {
+            "folio_field": "circulationNotes[0].date",
+            "legacy_field": "Not mapped"
+        },
+        {
+            "folio_field": "circulationNotes[0].note",
+            "legacy_field": "Not mapped"
+        },
+        {
+            "folio_field": "circulationNotes[0].noteType",
+            "legacy_field": "Not mapped"
+        },
+        {
+            "folio_field": "circulationNotes[0].source.personal.firstName",
+            "legacy_field": "Not mapped"
+        },
+        {
+            "folio_field": "circulationNotes[0].source.personal.lastName",
+            "legacy_field": "Not mapped"
+        },
+        {
+            "folio_field": "circulationNotes[0].staffOnly",
+            "legacy_field": "Z30_NOTE_INTERNAL"
+        },
+        {
+            "folio_field": "copyNumber",
+            "legacy_field": "Z30_COPY_ID"
+        },
+        {
+            "folio_field": "descriptionOfPieces",
+            "legacy_field": "Not mapped"
+        },
+        {
+            "folio_field": "discoverySuppress",
+            "legacy_field": "Not mapped"
+        },
+        {
+            "folio_field": "effectiveCallNumberComponents.callNumber",
+            "legacy_field": "Not mapped"
+        },
+        {
+            "folio_field": "effectiveCallNumberComponents.prefix",
+            "legacy_field": "Not mapped"
+        },
+        {
+            "folio_field": "effectiveCallNumberComponents.suffix",
+            "legacy_field": "Not mapped"
+        },
+        {
+            "folio_field": "effectiveShelvingOrder",
+            "legacy_field": "Not mapped"
+        },
+        {
+            "folio_field": "electronicAccess[0].linkText",
+            "legacy_field": "Not mapped"
+        },
+        {
+            "folio_field": "electronicAccess[0].materialsSpecification",
+            "legacy_field": "Not mapped"
+        },
+        {
+            "folio_field": "electronicAccess[0].publicNote",
+            "legacy_field": "Not mapped"
+        },
+        {
+            "folio_field": "electronicAccess[0].relationshipId",
+            "legacy_field": "Not mapped"
+        },
+        {
+            "folio_field": "electronicAccess[0].uri",
+            "legacy_field": "Not mapped"
+        },
+        {
+            "folio_field": "enumeration",
+            "legacy_field": "Z30_ENUMERATION_A",
+            "note": "concat into string"
+        },
+        {
+            "folio_field": "enumeration",
+            "legacy_field": "Z30_ENUMERATION_B",
+            "note": "concat into string"
+        },
+        {
+            "folio_field": "enumeration",
+            "legacy_field": "Z30_ENUMERATION_C",
+            "note": "concat into string"
+        },
+        {
+            "folio_field": "enumeration",
+            "legacy_field": "Z30_ENUMERATION_D",
+            "note": "concat into string"
+        },
+        {
+            "folio_field": "enumeration",
+            "legacy_field": "Z30_ENUMERATION_E",
+            "note": "concat into string"
+        },
+        {
+            "folio_field": "enumeration",
+            "legacy_field": "Z30_ENUMERATION_F",
+            "note": "concat into string"
+        },
+        {
+            "folio_field": "enumeration",
+            "legacy_field": "Z30_ENUMERATION_G",
+            "note": "concat into string"
+        },
+        {
+            "folio_field": "enumeration",
+            "legacy_field": "Z30_ENUMERATION_H",
+            "note": "concat into string"
+        },
+        {
+            "folio_field": "formerIds[0]",
+            "legacy_field": "KEY"
+        },
+        {
+            "folio_field": "holdingsRecordId",
+            "legacy_field": "Z30_HOL_DOC_NUMBER_X"
+        },
+        {
+            "folio_field": "hrid",
+            "legacy_field": "Not mapped"
+        },
+        {
+            "folio_field": "inTransitDestinationServicePointId",
+            "legacy_field": "Not mapped"
+        },
+        {
+            "folio_field": "itemDamagedStatusDate",
+            "legacy_field": "Not mapped"
+        },
+        {
+            "folio_field": "itemDamagedStatusId",
+            "legacy_field": "Not mapped"
+        },
+        {
+            "folio_field": "itemIdentifier",
+            "legacy_field": "Not mapped"
+        },
+        {
+            "folio_field": "itemLevelCallNumber",
+            "legacy_field": "Z30_CALL_NO"
+        },
+        {
+            "folio_field": "itemLevelCallNumberPrefix",
+            "legacy_field": "Not mapped"
+        },
+        {
+            "folio_field": "itemLevelCallNumberSuffix",
+            "legacy_field": "Not mapped"
+        },
+        {
+            "folio_field": "itemLevelCallNumberTypeId",
+            "legacy_field": "Z30_CALL_NO_TYPE",
+            "note": "see call number type mapping table"
+        },
+        {
+            "folio_field": "lastCheckIn.dateTime",
+            "legacy_field": "Not mapped"
+        },
+        {
+            "folio_field": "materialTypeId",
+            "legacy_field": "Z30_MATERIAL"
+        },
+        {
+            "folio_field": "missingPieces",
+            "legacy_field": "Not mapped"
+        },
+        {
+            "folio_field": "missingPiecesDate",
+            "legacy_field": "Not mapped"
+        },
+        {
+            "folio_field": "notes[0].itemNoteTypeId",
+            "legacy_field": "Z30_DESCRIPTION",
+            "value": "c7bc292c-a318-43d3-9b03-7a40dfba046a"
+        },
+        {
+            "folio_field": "notes[0].staffOnly",
+            "legacy_field": "Z30_DESCRIPTION",
+            "value": false
+        },
+        {
+            "folio_field": "notes[0].note",
+            "legacy_field": "Z30_DESCRIPTION"
+        },
+
+        {
+            "folio_field": "notes[1].itemNoteTypeId",
+            "legacy_field": "Z30_NOTE_INTERNAL",
+            "value": "c7bc292c-a318-43d3-9b03-7a40dfba046a"
+        },
+        {
+            "folio_field": "notes[1].staffOnly",
+            "legacy_field": "Z30_NOTE_INTERNAL",
+            "value": true
+        },
+        {
+            "folio_field": "notes[1].note",
+            "legacy_field": "Z30_NOTE_INTERNAL"
+        },
+        {
+            "folio_field": "notes[2].itemNoteTypeId",
+            "legacy_field": "Z30_NOTE_OPAC",
+            "value": "c7bc292c-a318-43d3-9b03-7a40dfba046a"
+        },
+        {
+            "folio_field": "notes[2].staffOnly",
+            "legacy_field": "Z30_NOTE_OPAC",
+            "value": false
+        },
+        {
+            "folio_field": "notes[2].note",
+            "legacy_field": "Z30_NOTE_OPAC"
+        },
+        {
+            "folio_field": "notes[3].itemNoteTypeId",
+            "legacy_field": "Z30_NOTE_CIRCULATION",
+            "value": "5a15e0f8-2802-4cbf-a4de-8f0dedd3ed3a"
+        },
+        {
+            "folio_field": "notes[3].staffOnly",
+            "legacy_field": "Z30_NOTE_CIRCULATION",
+            "value": false
+        },
+        {
+            "folio_field": "notes[3].note",
+            "legacy_field": "Z30_NOTE_CIRCULATION"
+        },
+        {
+            "folio_field": "notes[4].itemNoteTypeId",
+            "legacy_field": "Z30_ITEM_STATISTIC"
+        },
+        {
+            "folio_field": "notes[4].staffOnly",
+            "legacy_field": "Z30_ITEM_STATISTIC"
+        },
+        {
+            "folio_field": "notes[4].note",
+            "legacy_field": "Z30_ITEM_STATISTIC"
+        },
+        {
+            "folio_field": "numberOfMissingPieces",
+            "legacy_field": "Not mapped"
+        },
+        {
+            "folio_field": "numberOfPieces",
+            "legacy_field": "Not mapped"
+        },
+        {
+            "folio_field": "permanentLoanTypeId",
+            "legacy_field": "Z30_ITEM_STATUS",
+            "note": "see loan type mapping. Codes are only unique within sublibrary. Sublibrary required to disambiguate "
+        },
+        {
+            "folio_field": "permanentLoanTypeId",
+            "legacy_field": "Z30_SUB_LIBRARY",
+            "note": "see loan type mapping. Codes are only unique within sublibrary. Sublibrary required to disambiguate "
+        },
+        {
+            "folio_field": "permanentLocationId",
+            "legacy_field": "Z30_COLLECTION",
+            "note":  "see location mapping. Codes are only unique within sublibrary. Sublibrary required to disambiguate"
+        },
+        {
+            "folio_field": "permanentLocationId",
+            "legacy_field": "Z30_SUB_LIBRARY",
+            "note":  "see location mapping. Codes are only unique within sublibrary. Sublibrary required to disambiguate"
+        },
+        {
+            "folio_field": "purchaseOrderLineIdentifier",
+            "legacy_field": "Not mapped"
+        },
+        {
+            "folio_field": "status.date",
+            "legacy_field": "Not mapped"
+        },
+        {
+            "folio_field": "status.name",
+            "legacy_field": "Z30_ITEM_PROCESS_STATUS",
+            "note": "mapping not yet complete"
+        },
+        {
+            "folio_field": "temporaryLoanTypeId",
+            "legacy_field": "Not mapped",
+            "note":"if Z30_TEMP_LOCATION = 'Y',  location is temporary"
+        },
+        {
+            "folio_field": "temporaryLoanTypeId",
+            "legacy_field": "Not mapped",
+            "note":"if Z30_TEMP_LOCATION = 'Y',  location is temporary"
+        },
+        {
+            "folio_field": "temporaryLocationId",
+            "legacy_field": "Not mapped"
+        },
+        {
+            "folio_field": "volume",
+            "legacy_field": "Z30_ENUMERATION_A"
+        },
+        {
+            "folio_field": "yearCaption[0]",
+            "legacy_field": "Not mapped"
+        }
+    ]
+}

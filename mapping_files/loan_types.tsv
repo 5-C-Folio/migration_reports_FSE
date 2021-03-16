@@ -71,7 +71,7 @@ Standard Loan	MHLIB	01
 Reserve 3 Day	MHLIB	13
 Reserve 4 Hour	MHLIB	11
 1 Week	MHLIB	18
-2 Weel	MHLIB	09
+2 Week	MHLIB	09
 1 Week	MHLIB	10
 4 Week	MHLIB	14
 4 Week	MHLIB	16
@@ -250,3 +250,4 @@ Standard Loan	UMSCI	01
 4 Week	UMSCI	27
 Internet	UMSCI	04
 Reserve 4 Hour	UMDUB	31
+Non-circulating	*	*
