@@ -59,7 +59,7 @@
         },
         {
             "folio_field": "circulationNotes[0].staffOnly",
-            "legacy_field": "Z30_NOTE_INTERNAL"
+            "legacy_field": "Not mapped"
         },
         {
             "folio_field": "copyNumber",
