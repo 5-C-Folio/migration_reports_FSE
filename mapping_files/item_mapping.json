@@ -273,7 +273,8 @@
         },
         {
             "folio_field": "notes[4].staffOnly",
-            "legacy_field": "Z30_ITEM_STATISTIC"
+            "legacy_field": "Z30_ITEM_STATISTIC",
+            "value": false
         },
         {
             "folio_field": "notes[4].note",
