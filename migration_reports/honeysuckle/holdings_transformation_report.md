@@ -1,5 +1,5 @@
 # MFHD records transformation results   
-Time Finished: 2021-03-02T16:49:11.172966   
+Time Finished: 2021-04-07T20:10:42.448765   
 ## MFHD records transformation counters   
 Measure | Count   
 --- | ---:   
@@ -9,8 +9,10 @@ Number of records in file(s) | 6,477,203
 Total number of Tags processed | 52,871,528   
 Value errors | 130   
 bib id not in map | 260   
+<br/>Data errors preventing records from being migrated are marked **FIX BEFORE MIGRATION**. The library is advised to clean up these errors in the source data.<br/><br/> The sections related to field counts and mapping results are marked **REVIEW**. These do not indicate errors preventing records from being migrated, but may point to data anomalies or in the mappings. The library should review these to make sure that the numbers are what one would expect, knowing the source data. Is this the expected number of serials? Is this the expected number of cartographic materials?
    
 ## Record status (leader pos 5)    
+**REVIEW** An ovrview of the Record statuses (Leader position 5) present in your source data.    
 <details><summary>Click to expand all 3 things</summary>     
    
 Measure | Count   
@@ -21,6 +23,7 @@ n | 6476891
 </details>   
    
 ## Leader 06 (Holdings type)    
+Section description to be added.    
 <details><summary>Click to expand all 3 things</summary>     
    
 Measure | Count   
@@ -31,6 +34,7 @@ y | 4473
 </details>   
    
 ## Holdings type mapping    
+Section description to be added.    
 <details><summary>Click to expand all 3 things</summary>     
    
 Measure | Count   
@@ -41,19 +45,20 @@ Serial | 1400
 </details>   
    
 ## Callnumber types    
+Section description to be added.    
 <details><summary>Click to expand all 16 things</summary>     
    
 Measure | Count   
 --- | ---:   
-Mapped from Indicator 1 059a52bf-13e5-4950-8c2a-0ddea6bbeda0 | 28   
-Mapped from Indicator 1 0b099785-75b4-4f6d-a027-4f113b58ee23 | 1709790   
-Mapped from Indicator 1 15b880dd-ebaf-414e-a652-647be6d0037b | 1   
-Mapped from Indicator 1 2ee99558-94af-4d5f-b7af-f1c6862c2dc2 | 475782   
-Mapped from Indicator 1 402c6f5d-e345-4937-a3a8-30efe6eb0368 | 3689575   
-Mapped from Indicator 1 83f4ee5c-3df0-4f1a-b620-75b0ca0d4929 | 40401   
-Mapped from Indicator 1 996ecd4d-4826-4208-a888-b893df87c71d | 48   
-Mapped from Indicator 1 b72895ca-9863-4183-ac00-13cd1a6caeda | 4599   
-Mapped from Indicator 1 d4306cc4-feb8-42ca-af85-f1cf27bd37d4 | 102877   
+Mapped from Indicator 1 0 - Library of Congress classification | 3689575   
+Mapped from Indicator 1 1 - Dewey Decimal classification | 475782   
+Mapped from Indicator 1 2 - National Library of Medicine classification | 48   
+Mapped from Indicator 1 3 - Superintendent of Documents classification | 102877   
+Mapped from Indicator 1 4 - Shelving control number | 40401   
+Mapped from Indicator 1 5 - Title | 4599   
+Mapped from Indicator 1 6 - Shelved separately | 1   
+Mapped from Indicator 1 7 - Source specified in subfield $2 | 28   
+Mapped from Indicator 1 8 - Other scheme | 1709790   
 Unhandled call number type in ind1: " " | 453954   
 Unhandled call number type in ind1: "*" | 1   
 Unhandled call number type in ind1: "9" | 5   
@@ -64,6 +69,7 @@ Unhandled call number type in ind1: "o" | 1
 </details>   
    
 ## Legacy location codes    
+Section description to be added.    
 <details><summary>Click to expand all 444 things</summary>     
    
 Measure | Count   
@@ -515,7 +521,8 @@ UWWW UMDUB | 1
 </details>   
    
 ## Mapped Locations    
-<details><summary>Click to expand all 236 things</summary>     
+Section description to be added.    
+<details><summary>Click to expand all 256 things</summary>     
    
 Measure | Count   
 --- | ---:   
@@ -562,7 +569,8 @@ AMUSP->AC Music Periodicals | 7
 AMUSR->AC Music Reference | 2041   
 ASCIR->AC Science Reference | 65   
 ASCIV->AC Science Reserves | 3   
-Default loc returned ->Technical (for migration) | 3239882   
+Default loc returned ->Technical migration | 1721469   
+Default loc returned SNMSC->Technical migration | 523   
 FCANI->FC Annex | 36900   
 FCDPM->FC Depository Monographs | 74078   
 FCDPS->FC Depository Serials | 18351   
@@ -586,7 +594,7 @@ HSEED->HC Seed Library | 83
 HSEYD->HC Seydel Collection | 2276   
 HSKAE->HC Kael Collection | 1912   
 HSPEC->HC Special Collections | 389   
-HSPSEYD->HC Seydel Special Collections | 410   
+HSSEY->HC Seydel Special Collections | 410   
 HSTAC->HC Stacks | 114984   
 HVHS->HC VHS Tapes | 1073   
 HWRIG->HC Women's Lives Collection | 1511   
@@ -657,6 +665,7 @@ SARFO->SC Art Reference Oversize | 108
 SASB->SC Art Small Books | 530   
 SASTK->SC Art | 73103   
 SASTR->SC Art Restricted Circ | 11989   
+SATHE->SC Art Theses | 212   
 SAVD->SC Art Video | 172   
 SCA->SC College Archives | 792   
 SCMOA->SC Smith Museum | 294   
@@ -694,38 +703,56 @@ SJXCS->SC Josten Cassette | 190
 SNAUD->SC Neilson Audio | 165   
 SNBUR->SC Neilson Burack | 611   
 SNCAF->SC Neilson Cafe | 1   
-SNCAV->SC Nielson Caverno | 327   
-SNDVD->SC Nielson DVD | 7632   
-SNEAL->SC Nielson East Asian Language | 1237   
+SNCAV->SC Neilson Caverno | 327   
+SNDVD->SC Neilson DVD | 7632   
+SNEAL->SC Neilson East Asian Language | 1237   
 SNHBK->SC House Book | 478   
-SNMSC->SC Nielson Post Move Clean | 523   
-SNOVR->SC Nielson Oversize | 2692   
-SNPER->SC Nielson Periodical | 438   
+SNOVR->SC Neilson Oversize | 2692   
+SNPER->SC Neilson Periodical | 438   
 SNPRL->SC Neilson Reserve - Laptop | 7   
-SNPRM->SC Nielson Reserve Permanent | 138   
-SNREF->SC Nielson Reference | 98   
-SNRES->SC Nielson Reserve | 35   
-SNSTK->SC Nielson Stacks | 212475   
-SNWFI->SC Nielson Conway Center | 276   
+SNPRM->SC Neilson Reserve Permanent | 138   
+SNREF->SC Neilson Reference | 98   
+SNRES->SC Neilson Reserve | 35   
+SNSTK->SC Neilson Stacks | 212475   
+SNWFI->SC Neilson Conway Center | 276   
 SPBRO->SC Special Collections browsing | 713   
 SRBR->SC Rare Book Room Stacks | 32488   
 SRBRF->SC Rare Book Room Ref | 685   
 SXSTK->SC Annex Stacks 1 | 535699   
 SXSTL->SC Annex Stacks 2 | 15157   
+SXTHE->SC Annex Theses | 11014   
 UARC->UM Special Collections Archival | 1150   
 UCD->UM Science CD Cabinet | 512   
-UDGEN->UM Government Documents | 6315   
+UCDEV->UM Collection Development | 14   
+UCOL->UM Staff & Collection Resources | 49   
+UDAVI->UM Davis Collection | 893   
+UDCDC->UM Gov Docs CD-Roms | 50   
+UDGEN->UM Government Documents | 14375   
+UDMAS->UM Massachusetts Government Documents | 6659   
+UDMF->UM Gov Docs Microfiche | 147091   
+UEA->UM East Asian | 24046   
+UEARC->UM East Asian Ref. Room Read Chinese | 931   
+UEARF->UM East Asian Ref. Room | 802   
+UEARJ->UM East Asian Ref. Room Read Japanese | 1096   
+UEARK->UM East Asian Ref. Room Read Korean | 200   
 UICUR->UM Mt. Ida Curriculum Collection | 140   
 UIJUV->UM Mt. Ida Juvenile Collection | 1636   
 UIREG->UM Mt Ida Regular Collection | 14448   
 UIRES->UM Mt. Ida Reserve Collection | 51   
+UJUV->UM Juvenile | 5103   
 UKEY->UM Reserve - Keys | 3   
+ULCDK->UM Faculty Commons | 3   
+UMANX->UM Five College Annex Storage | 27151   
 UMAP->UM Special Collections Maps | 98   
+UMCD->UM Media CD | 261   
+UMCVP->UM Print Cover Record | 2   
+UMDIG->UM Digital Media Lab | 126   
 UMDVD->UM Media DVD | 8853   
-UMED->UM Media | 33   
+UMED->UM Media | 29   
 UMEQP->UM Equipment | 34   
 UMFF->UM Science Microfiche | 35826   
 UMFIL->UM Reserve - Films | 576   
+UMGEN->UM W.E.B. Du Bois General Collections | 1283675   
 UMIMAGE->UM Image Library | 10   
 UMLBW->UM Lebow STORAGE | 3088   
 UMLLR->UM Current News Lower Level Reading Area | 63   
@@ -736,7 +763,7 @@ UMMON->UM Music Monument | 4758
 UMPA->UM Du Bois Map Collection Atlases | 1   
 UMPER->UM W.E.B. Du Bois Periodicals | 5568   
 UMREP->UM Du Bois Reserves | 13   
-UMSTOR->UM Media STORAGE | 129897   
+UMSTOR->UM Media STORAGE | 130876   
 UNASA->UM Science NASA Collection | 3   
 UNEA->UM Near Eastern | 2375   
 UPTRC->UM Science PTRC Consult Room | 123   
@@ -758,6 +785,7 @@ UTHES->FC Depository Thesis | 23996
 </details>   
    
 ## Incomplete entity mapping (a code issue) adding entity    
+This is a coding anomaly that FSE will look into. The library does not have to do anything about it.    
 <details><summary>Click to expand all 209 things</summary>     
    
 Measure | Count   
@@ -974,6 +1002,7 @@ Measure | Count
 </details>   
    
 ## Mapped electronic access relationships types    
+**REVIEW** The created FOLIO instances contain the following Electronic access relationship type values. The library should review the total number for each value against what they would expect to see mapped.    
 <details><summary>Click to expand all 4 things</summary>     
    
 Measure | Count   
@@ -985,6 +1014,7 @@ Version of resource | 109470
 </details>   
    
 ## Mapped note types    
+**REVIEW** The created FOLIO instances contain the following Note type values. The library should review the total number for each value against what they would expect to see mapped.    
 <details><summary>Click to expand all 2 things</summary>     
    
 Measure | Count   
@@ -994,7 +1024,8 @@ Note | 13211
 </details>   
    
 ## Locations - Unmapped legacy codes    
-<details><summary>Click to expand all 186 things</summary>     
+Section description to be added.    
+<details><summary>Click to expand all 162 things</summary>     
    
 Measure | Count   
 --- | ---:   
@@ -1059,11 +1090,9 @@ SCANN SXSTK B392 1-6 | 1
 SCANN SXSTKS | 1   
 SCANN SXSTL DEPOSITORY: 4 (2005)-6 (2007) 05.31.13 | 1   
 SCANN SXSTL DEPOSITORY: 44 (1949)-45 (1949); WITHDRAWN: 2 (1918)-43 (1948), 46 (1950)-65 (1959) 09.30.13 | 1   
-SCANN SXTHE | 11014   
 SCHIL SAMED | 26   
 SCHIL SAPER DEPOSITORY: 1 (1963)-29 (2008) 11.07.13 | 1   
 SCHIL SAPER DEPOSITORY: 1 (1984)-2 (1985); WITHDRAWN: 3 (1986)-24 (2007) 02.04.14; WITHDRAWN: 25 (2008)-27 (2010) 11.29.16 | 1   
-SCHIL SATHE | 212   
 SCHIL SATHEO | 2   
 SCJOS | 9   
 SCJOS SJSB  | 918   
@@ -1102,24 +1131,10 @@ SSSSS SSSSS | 1
 SXSTK SCANN | 1   
 UGEN UMDUB | 1   
 UIREG UMIDA | 1   
-UMDML UMDIG | 126   
 UMDPT UDBKS | 5   
 UMDUB | 13   
 UMDUB UAAA | 11   
-UMDUB UCDEV | 14   
-UMDUB UCOL | 49   
 UMDUB UCOLB | 3   
-UMDUB UDAVI | 893   
-UMDUB UDCDC | 50   
-UMDUB UDGEN | 8060   
-UMDUB UDMAS | 6659   
-UMDUB UDMF | 147091   
-UMDUB UEA | 24046   
-UMDUB UEARC | 931   
-UMDUB UEARF | 802   
-UMDUB UEARJ | 1096   
-UMDUB UEARK | 200   
-UMDUB UGEN | 1283024   
 UMDUB UGEN  | 29   
 UMDUB UGEN .H68 1994 | 1   
 UMDUB UGEN .N37 1978 | 1   
@@ -1127,18 +1142,10 @@ UMDUB UGEN .R46 1990 | 1
 UMDUB UGEN .U54 | 1   
 UMDUB UGEN .W35 2003 | 1   
 UMDUB UGEN H57 2007 | 1   
-UMDUB UJUV | 5103   
-UMDUB ULAS | 130   
-UMDUB ULCDK | 3   
 UMDUB UMAAA | 1   
-UMDUB UMANX | 27151   
-UMDUB UMCD | 257   
-UMDUB UMCR | 979   
-UMDUB UMCVP | 2   
 UMDUB UMMLP .B63 1974 | 1   
 UMDUB UMMLP .E44 1984 | 1   
 UMDUB UMTPA | 2   
-UMDUB UMTXK | 521   
 UMDUB UMTXT | 1004   
 UMDUB UWACS | 1381   
 UMDUB UWBFL | 149   
@@ -1186,7 +1193,10 @@ UWCVE UMDUB | 2
 UWWW UMDUB | 1   
 </details>   
 
-## Mapped FOLIO fields   
+## Mapped FOLIO fields
+**REVIEW** This table shows how many of the FOLIO instance records created contain data in the different FOLIO fields. The library should review the mapped totals against what they would expect to see mapped.
+<details><summary>Click to expand field report</summary>     
+
 FOLIO Field | Mapped | Empty | Unmapped  
 --- | --- | --- | ---:  
 _version | 0 (0%) | 0 | 6477203  
@@ -1200,6 +1210,7 @@ callNumberTypeId | 6477073 (100%) | 0 | 130
 copyNumber | 0 (0%) | 0 | 6477203  
 digitizationPolicy | 0 (0%) | 0 | 6477203  
 discoverySuppress | 0 (0%) | 0 | 6477203  
+effectiveLocationId | 0 (0%) | 0 | 6477203  
 electronicAccess | 2029043 (31%) | 0 | 4448160  
 formerIds | 0 (0%) | 0 | 6477203  
 holdingsInstance | 0 (0%) | 0 | 6477203  
@@ -1226,8 +1237,12 @@ sourceId | 0 (0%) | 0 | 6477203
 statisticalCodeIds | 0 (0%) | 0 | 6477203  
 tags | 0 (0%) | 0 | 6477203  
 temporaryLocationId | 0 (0%) | 0 | 6477203  
+</details>   
 
-## Mapped Legacy fields  
+## Mapped Legacy fields
+**REVIEW** This table lists all the MARC fields in the source data, and whether it has been mapped to a FOLIO instance record field. The library should examine the MARC tags with a high 'Unmapped' figure and determine if these MARC tags contain data that you would like mapped to the FOLIO instance record.
+<details><summary>Click to expand field report</summary>     
+
 Legacy Field | Present | Mapped | Empty | Unmapped  
 --- | --- | --- | --- | ---:  
 001 | 6477203 (100.0%) | 0 (0%) | 0 | 6477203  
@@ -1294,3 +1309,4 @@ STA | 721 (0.0%) | 0 (0%) | 0 | 721
 WON | 2 (0.0%) | 0 (0%) | 0 | 2  
 `08 | 1 (0.0%) | 0 (0%) | 0 | 1  
 `WN | 2 (0.0%) | 0 (0%) | 0 | 2  
+</details>   
