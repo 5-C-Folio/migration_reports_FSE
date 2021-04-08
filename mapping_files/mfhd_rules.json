@@ -68,17 +68,13 @@
                     },
                     {
                         "target": "notes.staffOnly",
-                        "description": "",
-                        "value": false,
                         "rules": [
                             {
-                                "conditions": [
-                                    {
-                                        "type": "trim_period, trim"
-                                    }
-                                ]
+                                "value": "false",
+                                "conditions": []
                             }
-                        ]
+                        ],
+                        "description": ""
                     }
                 ]
             }
@@ -126,17 +122,13 @@
                     },
                     {
                         "target": "notes.staffOnly",
-                        "description": "",
-                        "value": false,
                         "rules": [
                             {
-                                "conditions": [
-                                    {
-                                        "type": "trim_period, trim"
-                                    }
-                                ]
+                                "value": "false",
+                                "conditions": []
                             }
-                        ]
+                        ],
+                        "description": ""
                     }
                 ]
             }
@@ -190,17 +182,13 @@
                     },
                     {
                         "target": "notes.staffOnly",
-                        "description": "",
-                        "value": false,
                         "rules": [
                             {
-                                "conditions": [
-                                    {
-                                        "type": "trim_period, trim"
-                                    }
-                                ]
+                                "value": "false",
+                                "conditions": []
                             }
-                        ]
+                        ],
+                        "description": ""
                     }
                 ]
             }
@@ -244,17 +232,13 @@
                     },
                     {
                         "target": "notes.staffOnly",
-                        "description": "",
-                        "value": false,
                         "rules": [
                             {
-                                "conditions": [
-                                    {
-                                        "type": "trim_period, trim"
-                                    }
-                                ]
+                                "value": "false",
+                                "conditions": []
                             }
-                        ]
+                        ],
+                        "description": ""
                     }
                 ]
             }
@@ -301,17 +285,13 @@
                     },
                     {
                         "target": "notes.staffOnly",
-                        "description": "",
-                        "value": false,
                         "rules": [
                             {
-                                "conditions": [
-                                    {
-                                        "type": "trim_period, trim"
-                                    }
-                                ]
+                                "value": "false",
+                                "conditions": []
                             }
-                        ]
+                        ],
+                        "description": ""
                     }
                 ]
             }
@@ -355,17 +335,13 @@
                     },
                     {
                         "target": "notes.staffOnly",
-                        "description": "",
-                        "value": false,
                         "rules": [
                             {
-                                "conditions": [
-                                    {
-                                        "type": "trim_period, trim"
-                                    }
-                                ]
+                                "value": "false",
+                                "conditions": []
                             }
-                        ]
+                        ],
+                        "description": ""
                     }
                 ]
             }
@@ -423,17 +399,13 @@
                     },
                     {
                         "target": "notes.staffOnly",
-                        "description": "",
-                        "value": false,
                         "rules": [
                             {
-                                "conditions": [
-                                    {
-                                        "type": "trim_period, trim"
-                                    }
-                                ]
+                                "value": "false",
+                                "conditions": []
                             }
-                        ]
+                        ],
+                        "description": ""
                     }
                 ]
             }
@@ -483,17 +455,13 @@
                     },
                     {
                         "target": "notes.staffOnly",
-                        "description": "",
-                        "value": false,
                         "rules": [
                             {
-                                "conditions": [
-                                    {
-                                        "type": "trim_period, trim"
-                                    }
-                                ]
+                                "value": "false",
+                                "conditions": []
                             }
-                        ]
+                        ],
+                        "description": ""
                     }
                 ]
             }
@@ -532,7 +500,7 @@
                         ]
                     }
                 ],
-                    "applyRulesOnConcatenatedData": true
+                "applyRulesOnConcatenatedData": true
             },
             {
                 "target": "callNumberPrefix",
@@ -639,17 +607,13 @@
                     },
                     {
                         "target": "notes.staffOnly",
-                        "description": "",
-                        "value": true,
                         "rules": [
                             {
-                                "conditions": [],
-                                "value": "true"
+                                "value": "false",
+                                "conditions": []
                             }
                         ],
-                        "subfield": [
-                            "x"
-                        ]
+                        "description": ""
                     }
                 ]
             },
@@ -692,17 +656,13 @@
                     },
                     {
                         "target": "notes.staffOnly",
-                        "description": "",
-                        "value": false,
                         "rules": [
                             {
-                                "conditions": [],
-                                "value": "true"
+                                "value": "false",
+                                "conditions": []
                             }
                         ],
-                        "subfield": [
-                            "z"
-                        ]
+                        "description": ""
                     }
                 ]
             }
