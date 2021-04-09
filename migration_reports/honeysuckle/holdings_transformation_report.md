@@ -1,5 +1,5 @@
 # MFHD records transformation results   
-Time Finished: 2021-04-07T20:10:42.448765   
+Time Finished: 2021-04-08T12:00:22.067234   
 ## MFHD records transformation counters   
 Measure | Count   
 --- | ---:   
@@ -790,192 +790,192 @@ This is a coding anomaly that FSE will look into. The library does not have to d
    
 Measure | Count   
 --- | ---:   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True 0 - b - c - h  | 4   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True 8 - b - c - h - i  | 4   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True 8 - b - c - h - i - x  | 1   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True a - b - c  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b  | 14   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - C - h  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - C - h - i  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - C - h - i - k  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - F  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - H - h - i  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - a - h - i  | 4   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - b  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - b - h - i  | 4   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - b - h - i - k  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c  | 915886   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - 3 - I  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - 3 - i  | 82   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - 4 - i  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - 6 - i  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - H  | 4   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - H - I  | 8   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - J - i  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - X  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - a  | 6   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - f - h - i  | 4   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h  | 4082158   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - .  | 4   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - 3  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - 8  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - I  | 6   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - K  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - a  | 14   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - b  | 20   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - c  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - h  | 50   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - h - i  | 18   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - h - k  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - h - x  | 1   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - i  | 7131082   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - i - 4  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - i - D  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - i - K  | 14   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - i - M  | 4   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - i - X  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - i - a  | 12   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - i - b - c  | 4   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - i - c  | 10   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - i - f  | 24   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - i - h  | 32   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - i - i  | 48   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - i - k  | 86986   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - i - k - k  | 6   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - i - k - m  | 20   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - i - k - x  | 504   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - i - k - z  | 13   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - i - l  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - i - m  | 50240   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - i - m - k  | 6   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - i - m - m  | 8   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - i - m - x  | 1   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - i - m - z  | 28   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - i - t  | 84   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - i - u - z  | 1   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - i - v  | 10   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - i - v - i  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - i - x  | 9363   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - i - x - x  | 12   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - i - z  | 678   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - i - z - z  | 4   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - k  | 297208   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - k - i  | 10   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - k - m  | 10   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - k - x  | 58   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - k - z  | 11   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - m  | 634   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - m - i  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - m - z  | 10   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - s  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - t  | 12   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - u  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - v  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - x  | 165   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - x - x  | 8   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - z  | 247   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - h - z - z  | 1   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - i  | 84   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - i - +  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - i - h  | 16   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - i - h - k  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - i - i  | 8   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - i - i - k  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - i - k  | 8   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - i - k - h  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - k  | 67236   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - k - h  | 96562   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - k - h - h  | 22   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - k - h - h - h  | 4   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - k - h - h - i  | 186   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - k - h - i  | 155188   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - k - h - i - i  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - k - h - i - k  | 796   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - k - h - i - m  | 4   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - k - h - i - x  | 194   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - k - h - i - z  | 88   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - k - h - k  | 266   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - k - h - x  | 1   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - k - h - z  | 12   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - k - i  | 12   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - k - k  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - k - k - h  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - k - k - h - i  | 32   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - k - m - h  | 34   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - k - m - h - i  | 26   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - k - z  | 10   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - m  | 4   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - m - h  | 264   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - m - h - i  | 32098   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - m - h - i - 8  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - m - h - i - k  | 4   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - m - h - i - m  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - m - h - i - x  | 126   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - m - h - i - z  | 34   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - m - h - z  | 10   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - t  | 4   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - u - z  | 1   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - x  | 54   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - x - h - i - m  | 1   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - x - k - h  | 1   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - x - k - h - i  | 1   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - x - x  | 1   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - z  | 704   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - z - h  | 5   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - z - h - i  | 1   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - c - z - z  | 1   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - h  | 4   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - h - c  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - h - c - i  | 4   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - h - i  | 22   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - h - i - c  | 4   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - h - i - k  | 18   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - k - c - h  | 20   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - k - c - h - i  | 4   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - k - h - i  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - l - h - i  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True b - z  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True c - b  | 8   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True c - b - h - i  | 36   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True c - h - b  | 4   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True c - h - i - b  | 4   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True h  | 10   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True h - b - C  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True h - b - c  | 2356   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True h - b - c - h - i  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True h - b - c - i  | 154   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True h - b - c - i - k  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True h - b - c - k  | 16   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True h - b - i  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True h - b - i - c  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True h - b - s  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True h - c - b  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True h - c - b - i  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True h - i  | 44   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True h - i - b  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True h - i - b - A  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True h - i - b - C  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True h - i - b - a  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True h - i - b - b  | 12   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True h - i - b - c  | 7114   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True h - i - b - c - i  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True h - i - b - c - k  | 222   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True h - i - b - c - x  | 1   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True h - i - b - c - z  | 3   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True h - i - b - i  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True h - i - b - l  | 6   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True h - i - c - b  | 6   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True h - i - j - b - c  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True h - i - k - b - c  | 48   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True h - i - m - b - c  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True h - k - b - c  | 46   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True i - b - c - h  | 6   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True i - k - b - c  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True k - b - c - h  | 678   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True k - b - c - h - i  | 10   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True k - h - b - c  | 10   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True k - h - i - b - c  | 2   
-852 notes note:False - holdingsNoteTypeId:False - staffOnly:True m - b - c - h - i  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False 0 - b - c - h  | 4   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False 8 - b - c - h - i  | 4   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False 8 - b - c - h - i - x  | 1   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False a - b - c  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b  | 14   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - C - h  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - C - h - i  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - C - h - i - k  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - F  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - H - h - i  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - a - h - i  | 4   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - b  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - b - h - i  | 4   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - b - h - i - k  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c  | 915886   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - 3 - I  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - 3 - i  | 82   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - 4 - i  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - 6 - i  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - H  | 4   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - H - I  | 8   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - J - i  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - X  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - a  | 6   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - f - h - i  | 4   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h  | 4082158   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - .  | 4   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - 3  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - 8  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - I  | 6   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - K  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - a  | 14   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - b  | 20   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - c  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - h  | 50   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - h - i  | 18   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - h - k  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - h - x  | 1   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - i  | 7131082   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - i - 4  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - i - D  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - i - K  | 14   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - i - M  | 4   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - i - X  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - i - a  | 12   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - i - b - c  | 4   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - i - c  | 10   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - i - f  | 24   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - i - h  | 32   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - i - i  | 48   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - i - k  | 86986   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - i - k - k  | 6   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - i - k - m  | 20   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - i - k - x  | 504   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - i - k - z  | 13   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - i - l  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - i - m  | 50240   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - i - m - k  | 6   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - i - m - m  | 8   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - i - m - x  | 1   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - i - m - z  | 28   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - i - t  | 84   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - i - u - z  | 1   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - i - v  | 10   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - i - v - i  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - i - x  | 9363   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - i - x - x  | 12   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - i - z  | 678   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - i - z - z  | 4   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - k  | 297208   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - k - i  | 10   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - k - m  | 10   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - k - x  | 58   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - k - z  | 11   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - m  | 634   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - m - i  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - m - z  | 10   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - s  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - t  | 12   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - u  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - v  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - x  | 165   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - x - x  | 8   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - z  | 247   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - h - z - z  | 1   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - i  | 84   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - i - +  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - i - h  | 16   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - i - h - k  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - i - i  | 8   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - i - i - k  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - i - k  | 8   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - i - k - h  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - k  | 67236   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - k - h  | 96562   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - k - h - h  | 22   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - k - h - h - h  | 4   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - k - h - h - i  | 186   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - k - h - i  | 155188   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - k - h - i - i  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - k - h - i - k  | 796   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - k - h - i - m  | 4   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - k - h - i - x  | 194   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - k - h - i - z  | 88   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - k - h - k  | 266   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - k - h - x  | 1   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - k - h - z  | 12   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - k - i  | 12   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - k - k  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - k - k - h  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - k - k - h - i  | 32   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - k - m - h  | 34   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - k - m - h - i  | 26   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - k - z  | 10   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - m  | 4   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - m - h  | 264   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - m - h - i  | 32098   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - m - h - i - 8  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - m - h - i - k  | 4   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - m - h - i - m  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - m - h - i - x  | 126   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - m - h - i - z  | 34   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - m - h - z  | 10   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - t  | 4   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - u - z  | 1   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - x  | 54   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - x - h - i - m  | 1   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - x - k - h  | 1   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - x - k - h - i  | 1   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - x - x  | 1   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - z  | 704   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - z - h  | 5   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - z - h - i  | 1   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - c - z - z  | 1   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - h  | 4   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - h - c  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - h - c - i  | 4   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - h - i  | 22   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - h - i - c  | 4   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - h - i - k  | 18   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - k - c - h  | 20   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - k - c - h - i  | 4   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - k - h - i  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - l - h - i  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False b - z  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False c - b  | 8   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False c - b - h - i  | 36   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False c - h - b  | 4   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False c - h - i - b  | 4   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False h  | 10   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False h - b - C  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False h - b - c  | 2356   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False h - b - c - h - i  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False h - b - c - i  | 154   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False h - b - c - i - k  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False h - b - c - k  | 16   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False h - b - i  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False h - b - i - c  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False h - b - s  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False h - c - b  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False h - c - b - i  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False h - i  | 44   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False h - i - b  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False h - i - b - A  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False h - i - b - C  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False h - i - b - a  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False h - i - b - b  | 12   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False h - i - b - c  | 7114   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False h - i - b - c - i  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False h - i - b - c - k  | 222   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False h - i - b - c - x  | 1   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False h - i - b - c - z  | 3   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False h - i - b - i  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False h - i - b - l  | 6   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False h - i - c - b  | 6   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False h - i - j - b - c  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False h - i - k - b - c  | 48   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False h - i - m - b - c  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False h - k - b - c  | 46   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False i - b - c - h  | 6   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False i - k - b - c  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False k - b - c - h  | 678   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False k - b - c - h - i  | 10   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False k - h - b - c  | 10   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False k - h - i - b - c  | 2   
+852 notes note:False - holdingsNoteTypeId:False - staffOnly:False m - b - c - h - i  | 2   
 866 holdingsStatements statement:False - note:False   | 3   
 866 holdingsStatements statement:False - note:False -  | 3   
 866 holdingsStatements statement:False - note:False 0  | 8   
