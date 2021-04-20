@@ -269,7 +269,8 @@
         },
         {
             "folio_field": "notes[4].itemNoteTypeId",
-            "legacy_field": "Z30_ITEM_STATISTIC"
+            "legacy_field": "Z30_ITEM_STATISTIC",
+	    "value": "5a15e0f8-2802-4cbf-a4de-8f0dedd3ed3a"
         },
         {
             "folio_field": "notes[4].staffOnly",
@@ -335,6 +336,10 @@
             "folio_field": "temporaryLocationId",
             "legacy_field": "Not mapped"
         },
+	{
+		"folio_field": "volume",
+	        "legacy_field": "Z30_DESCRIPTION"
+	},
         {
             "folio_field": "volume",
             "legacy_field": "Z30_ENUMERATION_A"
